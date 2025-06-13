@@ -1,0 +1,18 @@
+{
+  "name": "Hilário Oliveira",
+  "description": [
+    "Hilário Tomaz Alves de Oliveira is a leading Brazilian Computer Scientist specializing in <b>Artificial Intelligence (AI)</b>, particularly <b>Natural Language Processing (NLP)</b> and <b>Text Mining</b>. He holds a Ph.D. (2018) and a Master's (2013) in Computer Science from UFPE, focusing on Automatic Text Summarization and Unsupervised Ontology Population, respectively. He previously worked as a Researcher/Developer at Kurier Tecnologia and on projects with HP Lab (United States) in automatic text summarization.",
+    "Currently, he serves as a <b>Professor at IFES-Serra</b> in <b>Control and Automation Engineering and the Postgraduate Program in Applied Computing (PPComp), teaching AI, NLP, and Deep Learning</b>. His research includes <b>Text-To-SQL solutions, chatbot knowledge base optimization, and business process model extraction using Deep Learning</b>. He has registered several computer programs for NLP tasks, including automatic essay analysis for Portuguese. He is also a member of the <b>Brazilian Computer Society (SBC)</b> and the <b>Computational Intelligence and Information Systems Laboratory (LaIcSi)</b>."
+  ],
+  "image": "assets/img/profile/profile.png",
+  "cta_text": "DOWNLOAD CV",
+  "cta_link": "",
+  "social": [
+    { "icon": "ai ai-lattes", "link": "http://lattes.cnpq.br/8980213630090119" },
+    { "icon": "ai ai-google-scholar", "link": "https://scholar.google.com/citations?user=Xp4tZ0cAAAAJ" },
+    { "icon": "bi bi-github", "link": "https://github.com/hilariooliveira" },
+    { "icon": "bi bi-linkedin", "link": "https://www.linkedin.com/in/hil%C3%A1rio-tomaz-b18b8b167" },
+    { "icon": "ai ai-semantic-scholar", "link": "https://www.semanticscholar.org/author/Hil%C3%A1rio-Tomaz-Alves-de-Oliveira/2334591919" },
+    { "icon": "ai ai-orcid", "link": "https://orcid.org/0000-0003-0643-7206" }
+  ]
+}

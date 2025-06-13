@@ -1,0 +1,113 @@
+{# templates/index.html #}
+{% extends "base.html" %}
+{% block content %}
+<!-- Hero Section -->
+<section id="hero" class="hero section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 content-col" data-aos="fade-up">
+        <div class="content">
+          <div class="main-heading">
+            <h1>{{ hero.name }}</h1>
+          </div>
+          <div class="divider"></div>
+          <div class="description" style="text-align: justify;">
+            {% for paragraph in hero.description %}
+              <p>{{ paragraph | safe }}</p>
+            {% endfor %}
+          </div>
+          <div class="cta-button">
+            <a href="{{ hero.cta_link }}" class="btn">
+              <span>{{ hero.cta_text }}</span>
+              <i class="bi bi-arrow-right"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4" data-aos="zoom-out">
+        <div class="visual-content">
+          <div class="fluid-shape">
+            <img src="{{ hero.image }}" alt="Profile" class="fluid-img">
+          </div>
+          <div class="stats-card">
+            {% for s in hero.social %}
+              <a href="{{ s.link }}" target="_blank"><i class="{{ s.icon }}"></i></a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Portfolio Section -->
+<section id="portfolio" class="portfolio section" style="background-image: url('assets/img/background/portfolio-background.jpg'); ">
+  <div class="container section-title" data-aos="fade-up">
+    <h2>This is</h2>
+    <div><span>Research</span> <span class="description-title">Papers</span></div>
+  </div>
+  <div class="container" data-aos="fade-up" data-aos-delay="100">
+    <div class="isotope-layout" data-default-filter=".filter-{{ years[0] }}" data-layout="masonry" data-sort="original-order">
+      <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="200">
+        <li data-filter=".filter-{{ years[0] }}" class="filter-active">{{ years[0]}}</li>
+        {% for i in range(1, years|length) %}
+          <li data-filter=".filter-{{ years[i] }}">{{ years[i] }}</li>
+        {% endfor %}
+      </ul>
+      <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="300">
+        {% for paper in papers %}
+        <div class="col-lg-12 isotope-item filter-{{ paper.year }}">
+          <div class="team-member d-flex">
+<!--             <div class="member-img">
+              <img src="assets/img/person/person-m-{{ 7 }}.webp" class="img-fluid" alt="">
+            </div> -->
+            <div class="member-info flex-grow-1">
+              <h4>{{ paper.title }}</h4>
+              <span>{{ paper.authors }}</span>
+              <p>{{ paper.publication }}</p>
+              <div class="social">
+                {% if paper["google-scholar"] %}<a href='{{ paper["google-scholar"] }}' target="_blank"><i class="ai ai-google-scholar"></i></a>{% endif %}
+                {% if paper.elsevier %}<a href="{{ paper.elsevier }}" target="_blank"><i class="ai ai-elsevier"></i></a>{% endif %}
+                {% if paper.github %}<a href="{{ paper.github }}" target="_blank"><i class="bi bi-github"></i></a>{% endif %}
+                {% if paper.acm %}<a href="{{ paper.acm }}" target="_blank"><i class="ai ai-acm"></i></a>{% endif %}
+                {% if paper.arxiv %}<a href="{{ paper.arxiv }}" target="_blank"><i class="ai ai-arxiv"></i></a>{% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact" class="contact section">
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Contact</h2>
+    <div><span>Let's</span> <span class="description-title">Connect</span></div>
+  </div>
+  <div class="container" data-aos="fade-up" data-aos-delay="100">
+    <div class="row gy-4 mb-5">
+      {% for section in contact %}
+      <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="contact-info-box">
+          <div class="icon-box">
+            <i class="{{ section.icon }}"></i>
+          </div>
+          <div class="info-content">
+            <h4>{{ section.title }}</h4>
+            {% if section.value is string %}
+              <p>{{ section.value }}</p>
+            {% else %}
+              {% for line in section.value %}<p>{{ line }}</p>{% endfor %}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% endblock %}

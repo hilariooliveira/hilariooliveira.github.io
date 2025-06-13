@@ -1,0 +1,748 @@
+[
+    {
+        "title": "A benchmark dataset of narrative student essays with multi-competency grades for automatic essay scoring in Brazilian Portuguese",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:4MWp96NkSFoC",
+        "citation_id": "Xp4tZ0cAAAAJ:4MWp96NkSFoC",
+        "authors": "H Oliveira, RF Mello, P Miranda, H Batista, MW da Silva Filho, T Cordeiro, ...",
+        "publication": "Data in Brief 60, 111526, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025"
+    },
+    {
+        "title": "Data-Driven Analysis for Improving Educational Policies: A Case in Brazil\u2019s Textbook Program",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:p__nRnzSRKYC",
+        "citation_id": "Xp4tZ0cAAAAJ:p__nRnzSRKYC",
+        "authors": "A Ara\u00fajo, R Ara\u00fajo, L Cabral, L Silva, H Tomaz, E Martins, D Dermeval, ...",
+        "publication": "Conference on Digital Government Research 1, 2025",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025"
+    },
+    {
+        "title": "Unveiling Business Processes Control-Flow: Automated Extraction of Entities and Constraint Relations from Text",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:BwyfMAYsbu0C",
+        "citation_id": "Xp4tZ0cAAAAJ:BwyfMAYsbu0C",
+        "authors": "D de Santana Candido, HTA de Oliveira, MB Costa",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2025"
+    },
+    {
+        "title": "Assessing abstractive and extractive methods for automatic news summarization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:2KloaMYe4IUC",
+        "citation_id": "Xp4tZ0cAAAAJ:2KloaMYe4IUC",
+        "authors": "H Oliveira, RD Lins",
+        "publication": "Proceedings of the ACM Symposium on Document Engineering 2024, 1-10, 2024",
+        "cited_by": {
+            "value": 7,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14443304634904789298",
+            "serpapi_link": "https://serpapi.com/search.json?cites=14443304634904789298&engine=google_scholar&hl=en",
+            "cites_id": "14443304634904789298"
+        },
+        "year": "2024"
+    },
+    {
+        "title": "PROPOR\u201924 competition on automatic essay scoring of Portuguese narrative essays",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:1yQoGdGgb4wC",
+        "citation_id": "Xp4tZ0cAAAAJ:1yQoGdGgb4wC",
+        "authors": "RF Mello, H Oliveira, M Wenceslau, H Batista, T Cordeiro, II Bittencourt, ...",
+        "publication": "Proceedings of the 16th International Conference on Computational Processing \u2026, 2024",
+        "cited_by": {
+            "value": 2,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4862368075968412598",
+            "serpapi_link": "https://serpapi.com/search.json?cites=4862368075968412598&engine=google_scholar&hl=en",
+            "cites_id": "4862368075968412598"
+        },
+        "year": "2024"
+    },
+    {
+        "title": "An annotated dataset for automatic extraction of entities and restrictions from business process models",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:ML0RJ9NH7IQC",
+        "citation_id": "Xp4tZ0cAAAAJ:ML0RJ9NH7IQC",
+        "authors": "DS Candido, JVB Lima, H Oliveira, MB Costa",
+        "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 978-989, 2024",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9815290927485126800",
+            "serpapi_link": "https://serpapi.com/search.json?cites=9815290927485126800&engine=google_scholar&hl=en",
+            "cites_id": "9815290927485126800"
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Assessing the Reliability and Validity of the Measures for Automatic Text Summarization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:JQOojiI6XY0C",
+        "citation_id": "Xp4tZ0cAAAAJ:JQOojiI6XY0C",
+        "authors": "RD Lins, H Oliveira, SJ Simske",
+        "publication": "Proceedings of the ACM Symposium on Document Engineering 2024, 1-4, 2024",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7591993855652970699",
+            "serpapi_link": "https://serpapi.com/search.json?cites=7591993855652970699&engine=google_scholar&hl=en",
+            "cites_id": "7591993855652970699"
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Contextual Features for Automatic Essay Scoring in Portuguese",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:fEOibwPWpKIC",
+        "citation_id": "Xp4tZ0cAAAAJ:fEOibwPWpKIC",
+        "authors": "L Galhardi, MF Herculano, L Rodrigues, P Miranda, H Oliveira, T Cordeiro, ...",
+        "publication": "International Conference on Artificial Intelligence in Education, 270-282, 2024",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17046423056365052547",
+            "serpapi_link": "https://serpapi.com/search.json?cites=17046423056365052547&engine=google_scholar&hl=en",
+            "cites_id": "17046423056365052547"
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Prediction of Essay Cohesion in Portuguese Based on Item Response Theory in Machine Learning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:_Re3VWB3Y0AC",
+        "citation_id": "Xp4tZ0cAAAAJ:_Re3VWB3Y0AC",
+        "authors": "BAB Rosa, H Oliveira, RF Mello",
+        "publication": "International Conference on Artificial Intelligence in Education, 388-394, 2024",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14206144580379184657",
+            "serpapi_link": "https://serpapi.com/search.json?cites=14206144580379184657&engine=google_scholar&hl=en",
+            "cites_id": "14206144580379184657"
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Sumariza\u00e7\u00e3o Autom\u00e1tica de Artigos de Not\u0131cias em Portugu\u00eas: Da Extra\u00e7\u00e3o a Abstra\u00e7\u00e3o com Abordagens Cl\u00e1ssicas e Modelos Neurais",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:URolC5Kub84C",
+        "citation_id": "Xp4tZ0cAAAAJ:URolC5Kub84C",
+        "authors": "MA Sarmento, HTA de Oliveira",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2713069572575753802",
+            "serpapi_link": "https://serpapi.com/search.json?cites=2713069572575753802&engine=google_scholar&hl=en",
+            "cites_id": "2713069572575753802"
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Gera\u00e7ao Autom\u00e1tica de Perguntas em Portugu\u00eas do Brasil Usando os Modelos PTT5 e FLAN-T5",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:AvfA0Oy_GE0C",
+        "citation_id": "Xp4tZ0cAAAAJ:AvfA0Oy_GE0C",
+        "authors": "BC Coutinho, HTA de Oliveira",
+        "publication": "Simp\u00f3sio Brasileiro de Tecnologia da Informa\u00e7\u00e3o e da Linguagem Humana (STIL \u2026, 2024",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2024"
+    },
+    {
+        "title": "A Comparative Evaluation of Transformer-Based Vision Encoder-Decoder Models for Brazilian Portuguese Image Captioning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:vDijr-p_gm4C",
+        "citation_id": "Xp4tZ0cAAAAJ:vDijr-p_gm4C",
+        "authors": "G Bromonschenkel, H Oliveira, TM Paix\u00e3o",
+        "publication": "2024 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 1-6, 2024",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Exploring NLP and Embedding for Automatic Essay Scoring in the Portuguese",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:35r97b3x0nAC",
+        "citation_id": "Xp4tZ0cAAAAJ:35r97b3x0nAC",
+        "authors": "R Carvalho, LF Lins, L Rodrigues, P Miranda, H Oliveira, T Cordeiro, ...",
+        "publication": "International Conference on Artificial Intelligence in Education, 228-233, 2024",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Combina\u00e7ao de Modelos de Aprendizado de M\u00e1quina utilizando Teoria de Resposta ao Item para Avalia\u00e7ao de Coesao Textual em Reda\u00e7oes no contexto do ENEM",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:uWiczbcajpAC",
+        "citation_id": "Xp4tZ0cAAAAJ:uWiczbcajpAC",
+        "authors": "BA Rosa, H Oliveira, RF Mello, EA Oliveira",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2024"
+    },
+    {
+        "title": "Towards explainable prediction of essay cohesion in Portuguese and English",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:dQ2og3OwTAUC",
+        "citation_id": "Xp4tZ0cAAAAJ:dQ2og3OwTAUC",
+        "authors": "H Oliveira, R Ferreira Mello, BA Barreiros Rosa, M Rakovic, P Miranda, ...",
+        "publication": "LAK23: 13th international learning analytics and knowledge conference, 509-519, 2023",
+        "cited_by": {
+            "value": 19,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6775006016393617355",
+            "serpapi_link": "https://serpapi.com/search.json?cites=6775006016393617355&engine=google_scholar&hl=en",
+            "cites_id": "6775006016393617355"
+        },
+        "year": "2023"
+    },
+    {
+        "title": "Classifica\u00e7ao ou regressao? avaliando coesao textual em reda\u00e7oes no contexto do enem",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:uLbwQdceFCQC",
+        "citation_id": "Xp4tZ0cAAAAJ:uLbwQdceFCQC",
+        "authors": "H Oliveira, RF Mello, P Miranda, B Alexandre, T Cordeiro, II Bittencourt, ...",
+        "publication": "Simp\u00f3sio Brasileiro de Inform\u00e1tica na Educa\u00e7\u00e3o (SBIE), 1226-1237, 2023",
+        "cited_by": {
+            "value": 3,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7865293692220741032",
+            "serpapi_link": "https://serpapi.com/search.json?cites=7865293692220741032&engine=google_scholar&hl=en",
+            "cites_id": "7865293692220741032"
+        },
+        "year": "2023"
+    },
+    {
+        "title": "An\u00e1lise Comparativa entre Abordagens de Aprendizado de M\u00e1quina para Classifica\u00e7\u00e3o Autom\u00e1tica de Curr\u00edculos de Profissionais de TIC",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:HE397vMXCloC",
+        "citation_id": "Xp4tZ0cAAAAJ:HE397vMXCloC",
+        "authors": "RS Pereira, HTA de Oliveira",
+        "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 359-373, 2023",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2023"
+    },
+    {
+        "title": "Towards automated content analysis of rhetorical structure of written essays using sequential content-independent features in Portuguese",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:kzcrU_BdoSEC",
+        "citation_id": "Xp4tZ0cAAAAJ:kzcrU_BdoSEC",
+        "authors": "R Ferreira Mello, G Fiorentino, H Oliveira, P Miranda, M Rakovic, ...",
+        "publication": "LAK22: 12th International Learning Analytics and Knowledge Conference, 404-414, 2022",
+        "cited_by": {
+            "value": 17,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10998861920091801461",
+            "serpapi_link": "https://serpapi.com/search.json?cites=10998861920091801461&engine=google_scholar&hl=en",
+            "cites_id": "10998861920091801461"
+        },
+        "year": "2022"
+    },
+    {
+        "title": "Estimando coesao textual em reda\u00e7oes no contexto do enem utilizando modelos de aprendizado de m\u00e1quina",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:j8SEvjWlNXcC",
+        "citation_id": "Xp4tZ0cAAAAJ:j8SEvjWlNXcC",
+        "authors": "H Oliveira, P Miranda, S Isotani, J Santos, T Cordeiro, II Bittencourt, ...",
+        "publication": "Simp\u00f3sio Brasileiro de Inform\u00e1tica na Educa\u00e7\u00e3o (SBIE), 883-894, 2022",
+        "cited_by": {
+            "value": 6,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18084092314741157398",
+            "serpapi_link": "https://serpapi.com/search.json?cites=18084092314741157398&engine=google_scholar&hl=en",
+            "cites_id": "18084092314741157398"
+        },
+        "year": "2022"
+    },
+    {
+        "title": "Avalia\u00e7\u00e3o de Modelos Neurais para Sumariza\u00e7\u00e3o de C\u00f3digo-fonte",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:_B80troHkn4C",
+        "citation_id": "Xp4tZ0cAAAAJ:_B80troHkn4C",
+        "authors": "LBL Pontes, HTA de Oliveira, F de Assis Boldt",
+        "publication": "Semin\u00e1rio Integrado de Software e Hardware (SEMISH), 140-151, 2022",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8241196735821324831",
+            "serpapi_link": "https://serpapi.com/search.json?cites=8241196735821324831&engine=google_scholar&hl=en",
+            "cites_id": "8241196735821324831"
+        },
+        "year": "2022"
+    },
+    {
+        "title": "Combining Word Embeddings for Portuguese Named Entity Recognition",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:Y5dfb0dijaUC",
+        "citation_id": "Xp4tZ0cAAAAJ:Y5dfb0dijaUC",
+        "authors": "MG da Silva, HTA de Oliveira",
+        "publication": "International Conference on Computational Processing of the Portuguese \u2026, 2022",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6748886376144339424",
+            "serpapi_link": "https://serpapi.com/search.json?cites=6748886376144339424&engine=google_scholar&hl=en",
+            "cites_id": "6748886376144339424"
+        },
+        "year": "2022"
+    },
+    {
+        "title": "Chatbots Generativos como Ferramentas de Apoio ao Ensino em Cursos na \u00c1rea de Ferrovias",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:eMMeJKvmdy0C",
+        "citation_id": "Xp4tZ0cAAAAJ:eMMeJKvmdy0C",
+        "authors": "E dos Santos Lopes, HTA de Oliveira, KA de Souza Gazolli",
+        "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 352-363, 2022",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2022"
+    },
+    {
+        "title": "Aplica\u00e7\u00e3o de T\u00e9cnicas de Processamento De Linguagem Natural e Algoritmos de Aprendizado de M\u00e1quina para An\u00e1lise de Sentimentos",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:VLnqNzywnoUC",
+        "citation_id": "Xp4tZ0cAAAAJ:VLnqNzywnoUC",
+        "authors": "IAP SILVA, TCD GUERRA, HTA Oliveira",
+        "publication": "TCCendo Saberes Edi\u00e7\u00e3o 2019-2020, p. 261-275, 2022",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2022"
+    },
+    {
+        "title": "Towards automatic content analysis of rhetorical structure in Brazilian college entrance essays",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:ZuybSZzF8UAC",
+        "citation_id": "Xp4tZ0cAAAAJ:ZuybSZzF8UAC",
+        "authors": "RF Mello, G Fiorentino, P Miranda, H Oliveira, M Rakovi\u0107, D Ga\u0161evi\u0107",
+        "publication": "International conference on artificial intelligence in education, 162-167, 2021",
+        "cited_by": {
+            "value": 11,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4160876491431225813",
+            "serpapi_link": "https://serpapi.com/search.json?cites=4160876491431225813&engine=google_scholar&hl=en",
+            "cites_id": "4160876491431225813"
+        },
+        "year": "2021"
+    },
+    {
+        "title": "IDENTIFICA\u00c7\u00c3O AUTOM\u00c1TICA DE PERFIS DE MOTORISTAS USANDO APRENDIZADO DE M\u00c1QUINA",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:t7zJ5fGR-2UC",
+        "citation_id": "Xp4tZ0cAAAAJ:t7zJ5fGR-2UC",
+        "authors": "RRC Silva J\u00fanior, HTA Oliveira",
+        "publication": "Sistemas de Informa\u00e7\u00e3o e Aplica\u00e7\u00f5es Computacionais, 48-59., 2020",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2020"
+    },
+    {
+        "title": "SUMARIZA\u00c7\u00c3O AUTOM\u00c1TICA DE ARTIGOS DE NOT\u00cdCIAS EM PORTUGU\u00caS USANDO PROGRAMA\u00c7\u00c3O LINEAR INTEIRA E REGRESS\u00c3O",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:z_wVstp3MssC",
+        "citation_id": "Xp4tZ0cAAAAJ:z_wVstp3MssC",
+        "authors": "HTA Oliveira, LBB Gomes",
+        "publication": "Tecnologias, M\u00e9todos e Teorias na Engenharia de Computa\u00e7\u00e3o, 131-143, 2020",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2020"
+    },
+    {
+        "title": "The CNN-corpus: A large textual corpus for single-document extractive summarization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:tKAzc9rXhukC",
+        "citation_id": "Xp4tZ0cAAAAJ:tKAzc9rXhukC",
+        "authors": "RD Lins, H Oliveira, L Cabral, J Batista, B Tenorio, R Ferreira, R Lima, ...",
+        "publication": "Proceedings of the ACM Symposium on Document Engineering 2019, 1-10, 2019",
+        "cited_by": {
+            "value": 33,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13831008065817413366,14247577466643272975",
+            "serpapi_link": "https://serpapi.com/search.json?cites=13831008065817413366%2C14247577466643272975&engine=google_scholar&hl=en",
+            "cites_id": "13831008065817413366,14247577466643272975"
+        },
+        "year": "2019"
+    },
+    {
+        "title": "The CNN-corpus in spanish: a large corpus for extractive text summarization in the spanish language",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:7T2F9Uy0os0C",
+        "citation_id": "Xp4tZ0cAAAAJ:7T2F9Uy0os0C",
+        "authors": "RD Lins, H Oliveira, L Cabral, J Batista, B Tenorio, DA Salcedo, R Ferreira, ...",
+        "publication": "Proceedings of the ACM Symposium on Document Engineering 2019, 1-4, 2019",
+        "cited_by": {
+            "value": 3,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13724905394047743991",
+            "serpapi_link": "https://serpapi.com/search.json?cites=13724905394047743991&engine=google_scholar&hl=en",
+            "cites_id": "13724905394047743991"
+        },
+        "year": "2019"
+    },
+    {
+        "title": "A multi-document summarization system for news articles in Portuguese using integer linear programming",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:9vf0nzSNQJEC",
+        "citation_id": "Xp4tZ0cAAAAJ:9vf0nzSNQJEC",
+        "authors": "L Gomes, H de Oliveira",
+        "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 622-633, 2019",
+        "cited_by": {
+            "value": 2,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11955956697435723687",
+            "serpapi_link": "https://serpapi.com/search.json?cites=11955956697435723687&engine=google_scholar&hl=en",
+            "cites_id": "11955956697435723687"
+        },
+        "year": "2019"
+    },
+    {
+        "title": "Automatic cohesive summarization with pronominal anaphora resolution",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:WqliGbK-hY8C",
+        "citation_id": "Xp4tZ0cAAAAJ:WqliGbK-hY8C",
+        "authors": "J Antunes, RD Lins, R Lima, H Oliveira, M Riss, SJ Simske",
+        "publication": "Computer Speech & Language 52, 141-164, 2018",
+        "cited_by": {
+            "value": 34,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1630468347133615267",
+            "serpapi_link": "https://serpapi.com/search.json?cites=1630468347133615267&engine=google_scholar&hl=en",
+            "cites_id": "1630468347133615267"
+        },
+        "year": "2018"
+    },
+    {
+        "title": "A concept-based ILP approach for multi-document summarization exploring centrality and position",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:LjlpjdlvIbIC",
+        "citation_id": "Xp4tZ0cAAAAJ:LjlpjdlvIbIC",
+        "authors": "H Oliveira, RD Lins, R Lima, F Freitas, SJ Simske",
+        "publication": "2018 7th Brazilian conference on intelligent systems (BRACIS), 37-42, 2018",
+        "cited_by": {
+            "value": 9,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1924871288193510625",
+            "serpapi_link": "https://serpapi.com/search.json?cites=1924871288193510625&engine=google_scholar&hl=en",
+            "cites_id": "1924871288193510625"
+        },
+        "year": "2018"
+    },
+    {
+        "title": "Towards coherent single-document summarization: an integer linear programming-based approach",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:hkOj_22Ku90C",
+        "citation_id": "Xp4tZ0cAAAAJ:hkOj_22Ku90C",
+        "authors": "R Garcia, R Lima, B Espinasse, H Oliveira",
+        "publication": "Proceedings of the 33rd annual ACM symposium on applied computing, 712-719, 2018",
+        "cited_by": {
+            "value": 8,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6575516883196062089",
+            "serpapi_link": "https://serpapi.com/search.json?cites=6575516883196062089&engine=google_scholar&hl=en",
+            "cites_id": "6575516883196062089"
+        },
+        "year": "2018"
+    },
+    {
+        "title": "Evaluating regression algorithms for automatic text summarization in Brazilian Portuguese",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:XD-gHx7UXLsC",
+        "citation_id": "Xp4tZ0cAAAAJ:XD-gHx7UXLsC",
+        "authors": "LC Sodr\u00e9, HTA Oliveira",
+        "publication": "Anais do XV Encontro Nacional de Intelig\u00eancia Artificial e Computacional \u2026, 2018",
+        "cited_by": {
+            "value": 5,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5294886533839650504,11736007201726499761",
+            "serpapi_link": "https://serpapi.com/search.json?cites=5294886533839650504%2C11736007201726499761&engine=google_scholar&hl=en",
+            "cites_id": "5294886533839650504,11736007201726499761"
+        },
+        "year": "2018"
+    },
+    {
+        "title": "Sumariza\u00e7\u00e3o autom\u00e1tica de textos baseada em conceitos via programa\u00e7\u00e3o linear inteira e regress\u00e3o",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:eq2jaN3J8jMC",
+        "citation_id": "Xp4tZ0cAAAAJ:eq2jaN3J8jMC",
+        "authors": "HTA OLIVEIRA",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17018941571007576358",
+            "serpapi_link": "https://serpapi.com/search.json?cites=17018941571007576358&engine=google_scholar&hl=en",
+            "cites_id": "17018941571007576358"
+        },
+        "year": "2018"
+    },
+    {
+        "title": "A regression-based approach using integer linear programming for single-document summarization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:ZfRJV9d4-WMC",
+        "citation_id": "Xp4tZ0cAAAAJ:ZfRJV9d4-WMC",
+        "authors": "H Oliveira, RD Lins, R Lima, F Freitas, SJ Simske",
+        "publication": "2017 IEEE 29th International Conference on Tools with Artificial \u2026, 2017",
+        "cited_by": {
+            "value": 16,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14025040785956455301",
+            "serpapi_link": "https://serpapi.com/search.json?cites=14025040785956455301&engine=google_scholar&hl=en",
+            "cites_id": "14025040785956455301"
+        },
+        "year": "2017"
+    },
+    {
+        "title": "Assessing shallow sentence scoring techniques and combinations for single and multi-document summarization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:evX43VCCuoAC",
+        "citation_id": "Xp4tZ0cAAAAJ:evX43VCCuoAC",
+        "authors": "H Oliveira, R Ferreira, R Lima, RD Lins, F Freitas, M Riss, SJ Simske",
+        "publication": "Expert Systems with Applications 65, 68-86, 2016",
+        "cited_by": {
+            "value": 83,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14451880390052297584",
+            "serpapi_link": "https://serpapi.com/search.json?cites=14451880390052297584&engine=google_scholar&hl=en",
+            "cites_id": "14451880390052297584"
+        },
+        "year": "2016"
+    },
+    {
+        "title": "A concept-based integer linear programming approach for single-document summarization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:tzM49s52ZIMC",
+        "citation_id": "Xp4tZ0cAAAAJ:tzM49s52ZIMC",
+        "authors": "H Oliveira, R Lima, RD Lins, F Freitas, M Riss, SJ Simske",
+        "publication": "2016 5th Brazilian Conference on Intelligent Systems (BRACIS), 403-408, 2016",
+        "cited_by": {
+            "value": 14,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14276128801119800274",
+            "serpapi_link": "https://serpapi.com/search.json?cites=14276128801119800274&engine=google_scholar&hl=en",
+            "cites_id": "14276128801119800274"
+        },
+        "year": "2016"
+    },
+    {
+        "title": "Assessing concept weighting in integer linear programming based single-document summarization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:VL0QpB8kHFEC",
+        "citation_id": "Xp4tZ0cAAAAJ:VL0QpB8kHFEC",
+        "authors": "H Oliveira, R Lima, RD Lins, F Freitas, M Riss, SJ Simske",
+        "publication": "Proceedings of the 2016 ACM Symposium on Document Engineering, 205-208, 2016",
+        "cited_by": {
+            "value": 10,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3308619510550905633",
+            "serpapi_link": "https://serpapi.com/search.json?cites=3308619510550905633&engine=google_scholar&hl=en",
+            "cites_id": "3308619510550905633"
+        },
+        "year": "2016"
+    },
+    {
+        "title": "Appling link target identification and content extraction to improve web news summarization",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:NJ774b8OgUMC",
+        "citation_id": "Xp4tZ0cAAAAJ:NJ774b8OgUMC",
+        "authors": "R Ferreira, R Ferreira, RD Lins, H Oliveira, M Riss, SJ Simske",
+        "publication": "Proceedings of the 2016 ACM Symposium on Document Engineering, 197-200, 2016",
+        "cited_by": {
+            "value": 5,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12486087619953300222",
+            "serpapi_link": "https://serpapi.com/search.json?cites=12486087619953300222&engine=google_scholar&hl=en",
+            "cites_id": "12486087619953300222"
+        },
+        "year": "2016"
+    },
+    {
+        "title": "A web-based method for ontology population",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:ye4kPcJQO24C",
+        "citation_id": "Xp4tZ0cAAAAJ:ye4kPcJQO24C",
+        "authors": "H Oliveira, R Lima, J Gomes, F Freitas, RD Lins, SJ Simske, M Riss",
+        "publication": "Mobile Computing and Wireless Networks: Concepts, Methodologies, Tools, and \u2026, 2016",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2639331397689160258",
+            "serpapi_link": "https://serpapi.com/search.json?cites=2639331397689160258&engine=google_scholar&hl=en",
+            "cites_id": "2639331397689160258"
+        },
+        "year": "2016"
+    },
+    {
+        "title": "Automatic text document summarization based on machine learning",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:_Ybze24A_UAC",
+        "citation_id": "Xp4tZ0cAAAAJ:_Ybze24A_UAC",
+        "authors": "G Silva, R Ferreira, RD Lins, L Cabral, H Oliveira, SJ Simske, M Riss",
+        "publication": "Proceedings of the 2015 ACM Symposium on Document Engineering, 191-194, 2015",
+        "cited_by": {
+            "value": 33,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9140607132907247235",
+            "serpapi_link": "https://serpapi.com/search.json?cites=9140607132907247235&engine=google_scholar&hl=en",
+            "cites_id": "9140607132907247235"
+        },
+        "year": "2015"
+    },
+    {
+        "title": "A quantitative and qualitative assessment of automatic text summarization systems",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:tkaPQYYpVKoC",
+        "citation_id": "Xp4tZ0cAAAAJ:tkaPQYYpVKoC",
+        "authors": "J Batista, R Ferreira, H Tomaz, R Ferreira, R Dueire Lins, S Simske, ...",
+        "publication": "Proceedings of the 2015 ACM Symposium on Document Engineering, 65-68, 2015",
+        "cited_by": {
+            "value": 22,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7430732145242736750",
+            "serpapi_link": "https://serpapi.com/search.json?cites=7430732145242736750&engine=google_scholar&hl=en",
+            "cites_id": "7430732145242736750"
+        },
+        "year": "2015"
+    },
+    {
+        "title": "An unsupervised method for ontology population from textual sources on the web",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:WA5NYHcadZ8C",
+        "citation_id": "Xp4tZ0cAAAAJ:WA5NYHcadZ8C",
+        "authors": "F Lima, HTA de Oliveira, LN Salvador",
+        "cited_by": {
+            "value": 4,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5194626352151056486",
+            "serpapi_link": "https://serpapi.com/search.json?cites=5194626352151056486&engine=google_scholar&hl=en",
+            "cites_id": "5194626352151056486"
+        },
+        "year": "2015"
+    },
+    {
+        "title": "Um M\u00e9todo N\u00e3o Supervisionado para o Povoamento de Ontologias a partir de Fontes Textuais na Web",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:UHK10RUVsp4C",
+        "citation_id": "Xp4tZ0cAAAAJ:UHK10RUVsp4C",
+        "authors": "F Lima, H Oliveira, L Salvador",
+        "publication": "Simp\u00f3sio Brasileiro de Sistemas de Informa\u00e7\u00e3o (SBSI), 387-394, 2015",
+        "cited_by": {
+            "value": 1,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7373047953821295807",
+            "serpapi_link": "https://serpapi.com/search.json?cites=7373047953821295807&engine=google_scholar&hl=en",
+            "cites_id": "7373047953821295807"
+        },
+        "year": "2015"
+    },
+    {
+        "title": "Ontology population from the web: an inductive logic programming-based approach",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:W5xh706n7nkC",
+        "citation_id": "Xp4tZ0cAAAAJ:W5xh706n7nkC",
+        "authors": "R Lima, B Espinasse, H Oliveira, F Freitas",
+        "publication": "2014 11th International Conference on Information Technology: New \u2026, 2014",
+        "cited_by": {
+            "value": 12,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9314649818393798599",
+            "serpapi_link": "https://serpapi.com/search.json?cites=9314649818393798599&engine=google_scholar&hl=en",
+            "cites_id": "9314649818393798599"
+        },
+        "year": "2014"
+    },
+    {
+        "title": "Ontologies supporting the distributed software development: a systematic mapping study",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:PELIpwtuRlgC",
+        "citation_id": "Xp4tZ0cAAAAJ:PELIpwtuRlgC",
+        "authors": "A Borges, S Soares, S Meira, H Tomaz, R Rocha, C Costa",
+        "publication": "Proceedings of the 17th International Conference on Evaluation and \u2026, 2013",
+        "cited_by": {
+            "value": 17,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8969970650648105036",
+            "serpapi_link": "https://serpapi.com/search.json?cites=8969970650648105036&engine=google_scholar&hl=en",
+            "cites_id": "8969970650648105036"
+        },
+        "year": "2013"
+    },
+    {
+        "title": "Information extraction from the web: an ontology-based method using inductive logic programming",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:PR6Y55bgFSsC",
+        "citation_id": "Xp4tZ0cAAAAJ:PR6Y55bgFSsC",
+        "authors": "R Lima, B Espinasse, H Oliveira, L Pentagrossa, F Freitas",
+        "publication": "2013 IEEE 25th International Conference on Tools with Artificial \u2026, 2013",
+        "cited_by": {
+            "value": 14,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6432496736870273184",
+            "serpapi_link": "https://serpapi.com/search.json?cites=6432496736870273184&engine=google_scholar&hl=en",
+            "cites_id": "6432496736870273184"
+        },
+        "year": "2013"
+    },
+    {
+        "title": "An inductive logic programming-based approach for ontology population from the web",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:-_dYPAW6P2MC",
+        "citation_id": "Xp4tZ0cAAAAJ:-_dYPAW6P2MC",
+        "authors": "R Lima, B Espinasse, H Oliveira, R Ferreira, L Cabral, D Filho, F Freitas, ...",
+        "publication": "Database and Expert Systems Applications: 24th International Conference \u2026, 2013",
+        "cited_by": {
+            "value": 11,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16881338873557237758",
+            "serpapi_link": "https://serpapi.com/search.json?cites=16881338873557237758&engine=google_scholar&hl=en",
+            "cites_id": "16881338873557237758"
+        },
+        "year": "2013"
+    },
+    {
+        "title": "Group Profiling for Understanding Educational Social Networking.",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:N5tVd3kTz84C",
+        "citation_id": "Xp4tZ0cAAAAJ:N5tVd3kTz84C",
+        "authors": "J Gomes, RBC Prud\u00eancio, L Meira, A Azevedo Filho, ACA Nascimento, ...",
+        "publication": "SEKE, 101-106, 2013",
+        "cited_by": {
+            "value": 7,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3913697637544549780",
+            "serpapi_link": "https://serpapi.com/search.json?cites=3913697637544549780&engine=google_scholar&hl=en",
+            "cites_id": "3913697637544549780"
+        },
+        "year": "2013"
+    },
+    {
+        "title": "Um m\u00e9todo n\u00e3o supervisionado para o povoamento de ontologias na web",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:dTyEYWd-f8wC",
+        "citation_id": "Xp4tZ0cAAAAJ:dTyEYWd-f8wC",
+        "authors": "HTA Oliveira",
+        "cited_by": {
+            "value": 3,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9706797714697636756",
+            "serpapi_link": "https://serpapi.com/search.json?cites=9706797714697636756&engine=google_scholar&hl=en",
+            "cites_id": "9706797714697636756"
+        },
+        "year": "2013"
+    },
+    {
+        "title": "A confidence\u2013weighted metric for unsupervised ontology population from web texts",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:Fu2w8maKXqMC",
+        "citation_id": "Xp4tZ0cAAAAJ:Fu2w8maKXqMC",
+        "authors": "H Oliveira, R Lima, J Gomes, R Ferreira, F Freitas, E Costa",
+        "publication": "Database and Expert Systems Applications: 23rd International Conference \u2026, 2012",
+        "cited_by": {
+            "value": 7,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9940898826092507254",
+            "serpapi_link": "https://serpapi.com/search.json?cites=9940898826092507254&engine=google_scholar&hl=en",
+            "cites_id": "9940898826092507254"
+        },
+        "year": "2012"
+    },
+    {
+        "title": "An unsupervised method for ontology population from the web",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:SdhP9T11ey4C",
+        "citation_id": "Xp4tZ0cAAAAJ:SdhP9T11ey4C",
+        "authors": "H Tomaz, R Lima, J Emanoel, F Freitas",
+        "publication": "Advances in Artificial Intelligence\u2013IBERAMIA 2012: 13th Ibero-American \u2026, 2012",
+        "cited_by": {
+            "value": 7,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16548469774558974900",
+            "serpapi_link": "https://serpapi.com/search.json?cites=16548469774558974900&engine=google_scholar&hl=en",
+            "cites_id": "16548469774558974900"
+        },
+        "year": "2012"
+    },
+    {
+        "title": "A PROPOSAL AND EVALUATION OF A RECOMMENDATION MODEL FOR PEOPLE SELECTION PROCESS",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:JoZmwDi-zQgC",
+        "citation_id": "Xp4tZ0cAAAAJ:JoZmwDi-zQgC",
+        "authors": "RN de Sousa Gadelha, CC de Souza, HTA de Oliveira",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2012"
+    },
+    {
+        "title": "Uma arquitetura para Testes Funcionais utilizando Molybdenum",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:9Nmd_mFXekcC",
+        "citation_id": "Xp4tZ0cAAAAJ:9Nmd_mFXekcC",
+        "authors": "CC SOUZA, HTA OLIVEIRA",
+        "publication": "Encontro Brasileiro de Testes de Software (EBTS), 2011",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2011"
+    },
+    {
+        "title": "Dr. pierre: Um chatterbot com inten\u00e7\u00e3o e personalidade baseado em ontologias para apoiar o ensino de psiquiatria",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:nrtMV_XWKgEC",
+        "citation_id": "Xp4tZ0cAAAAJ:nrtMV_XWKgEC",
+        "authors": "HTA De Oliveira, RNS Gadelha, RR de Azevedo, JBD J\u00fanior, GA Dias, ...",
+        "publication": "Brazilian Symposium on Computers in Education (Simp\u00f3sio Brasileiro de \u2026, 2010",
+        "cited_by": {
+            "value": 13,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7163955246175408299,6563696272109656206",
+            "serpapi_link": "https://serpapi.com/search.json?cites=7163955246175408299%2C6563696272109656206&engine=google_scholar&hl=en",
+            "cites_id": "7163955246175408299,6563696272109656206"
+        },
+        "year": "2010"
+    },
+    {
+        "title": "Os simulator: Um simulador de sistema de arquivos para apoiar o ensino/aprendizagem de sistemas operacionais",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:yB1At4FlUx8C",
+        "citation_id": "Xp4tZ0cAAAAJ:yB1At4FlUx8C",
+        "authors": "RNS Gadelha, RR de Azevedo, HTA de Oliveira, TD Neves, CC Souza, ...",
+        "publication": "Brazilian Symposium on Computers in Education (Simp\u00f3sio Brasileiro de \u2026, 2010",
+        "cited_by": {
+            "value": 10,
+            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=542995114433885262",
+            "serpapi_link": "https://serpapi.com/search.json?cites=542995114433885262&engine=google_scholar&hl=en",
+            "cites_id": "542995114433885262"
+        },
+        "year": "2010"
+    },
+    {
+        "title": "Uma Proposta de Arquitetura Baseada em Ontologias para Chatterbots com Inten\u00e7\u00e3o e Personalidade",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:AXPGKjj_ei8C",
+        "citation_id": "Xp4tZ0cAAAAJ:AXPGKjj_ei8C",
+        "authors": "RNS Gadelha, H Tomaz, RR de Azevedo, JBD J\u00fanior, GA Dias",
+        "publication": "Simp\u00f3sio Brasileiro de Sistemas Multim\u00eddia e Web (WebMedia), 87-89, 2010",
+        "cited_by": {
+            "value": null
+        },
+        "year": "2010"
+    }
+]
