@@ -2,9 +2,11 @@
     {
         "title": "A benchmark dataset of narrative student essays with multi-competency grades for automatic essay scoring in Brazilian Portuguese",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:4MWp96NkSFoC",
-        "acm": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:4MWp96NkSFoC",
+        "elsevier": "https://www.sciencedirect.com/science/article/pii/S2352340925002586",
+        "kaggle": "https://www.kaggle.com/datasets/moesiof/portuguese-narrative-essays",
         "citation_id": "Xp4tZ0cAAAAJ:4MWp96NkSFoC",
-        "authors": "H Oliveira, RF Mello, P Miranda, H Batista, MW da Silva Filho, T Cordeiro, ...",
+        "authors_short": "H Oliveira, RF Mello, P Miranda, H Batista, MW da Silva Filho, T Cordeiro, ...",
+        "authors": "<b>Hilário Oliveira</b>, Rafael Ferreira Mello, Péricles Miranda, Hyan Batista, Moésio Wenceslau da Silva Filho, Thiago Cordeiro, Ig Ibert Bittencourt, Seiji Isotani",
         "publication": "Data in Brief 60, 111526, 2025",
         "cited_by": {
             "value": null
@@ -14,8 +16,10 @@
     {
         "title": "Data-Driven Analysis for Improving Educational Policies: A Case in Brazil\u2019s Textbook Program",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:p__nRnzSRKYC",
+        "doi": "https://doi.org/10.59490/dgo.2025.1023",
         "citation_id": "Xp4tZ0cAAAAJ:p__nRnzSRKYC",
-        "authors": "A Ara\u00fajo, R Ara\u00fajo, L Cabral, L Silva, H Tomaz, E Martins, D Dermeval, ...",
+        "authors_short": "A Ara\u00fajo, R Ara\u00fajo, L Cabral, L Silva, H Tomaz, E Martins, D Dermeval, ...",
+        "authors": "André Araújo, Rafael Araújo, Luciano Cabral, Luciane Silva, <b>Hilario Tomaz</b>, Emerson Martins, Diego Dermeval, Álvaro Sobrinho, Alan Pedro da Silva, Leonardo Marques, Filipe Recch, Sebastian Munoz-Najar Galvez, Seiji Isotani, Ig Ibert Bittencourt",
         "publication": "Conference on Digital Government Research 1, 2025",
         "cited_by": {
             "value": null
@@ -25,8 +29,11 @@
     {
         "title": "Unveiling Business Processes Control-Flow: Automated Extraction of Entities and Constraint Relations from Text",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:BwyfMAYsbu0C",
+        "doi": "https://doi.org/10.5220/0013435600003929",
+        "github": "https://github.com/laicsiifes/bpm_dataset",
         "citation_id": "Xp4tZ0cAAAAJ:BwyfMAYsbu0C",
-        "authors": "D de Santana Candido, HTA de Oliveira, MB Costa",
+        "authors_short": "D de Santana Candido, HTA de Oliveira, MB Costa",
+        "authors": "Diogo de Santana Candido, <b>Hilário Tomaz Alves de Oliveira</b>, Mateus Barcellos Costa",
         "cited_by": {
             "value": null
         },
@@ -35,8 +42,11 @@
     {
         "title": "Assessing abstractive and extractive methods for automatic news summarization",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:2KloaMYe4IUC",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/3685650.3685664",
+        "github": "https://github.com/hilariooliveira/benchmark_text_summarization",
         "citation_id": "Xp4tZ0cAAAAJ:2KloaMYe4IUC",
-        "authors": "H Oliveira, RD Lins",
+        "authors_short": "H Oliveira, RD Lins",
+        "authors": "<b>Hilário Oliveira</b>, Rafael Dueire Lins",
         "publication": "Proceedings of the ACM Symposium on Document Engineering 2024, 1-10, 2024",
         "cited_by": {
             "value": 7,
@@ -49,9 +59,13 @@
     {
         "title": "PROPOR\u201924 competition on automatic essay scoring of Portuguese narrative essays",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:1yQoGdGgb4wC",
+        "acl-anthology": "https://aclanthology.org/2024.propor-2.1/",
+        "kaggle": "https://www.kaggle.com/datasets/moesiof/portuguese-narrative-essays",
         "citation_id": "Xp4tZ0cAAAAJ:1yQoGdGgb4wC",
-        "authors": "RF Mello, H Oliveira, M Wenceslau, H Batista, T Cordeiro, II Bittencourt, ...",
-        "publication": "Proceedings of the 16th International Conference on Computational Processing \u2026, 2024",
+        "authors_short": "RF Mello, H Oliveira, M Wenceslau, H Batista, T Cordeiro, II Bittencourt, ...",
+        "authors": "Rafael Ferreira Mello, <b>Hilário Oliveira</b>, Moésio Wenceslau, Hyan Batista, Thiago Cordeiro, Ig Ibert Bittencourt, Seiji Isotani",
+        "publication_short": "Proceedings of the 16th International Conference on Computational Processing \u2026, 2024",
+        "publication": "Proceedings of the 16th International Conference on Computational Processing of Portuguese-Vol. 2",
         "cited_by": {
             "value": 2,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4862368075968412598",
@@ -61,10 +75,13 @@
         "year": "2024"
     },
     {
-        "title": "An annotated dataset for automatic extraction of entities and restrictions from business process models",
+        "title": "An Annotated Dataset for Automatic Extraction of Entities and Restrictions from Business Process Models",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:ML0RJ9NH7IQC",
+        "doi": "https://doi.org/10.5753/eniac.2024.245085",
+        "github": "https://github.com/laicsiifes/bpm_dataset",
         "citation_id": "Xp4tZ0cAAAAJ:ML0RJ9NH7IQC",
-        "authors": "DS Candido, JVB Lima, H Oliveira, MB Costa",
+        "authors_short": "DS Candido, JVB Lima, H Oliveira, MB Costa",
+        "authors": "Diogo S. Candido, Joao Victor Berti Lima, <b>Hilário Oliveira</b>, Mateus B. Costa",
         "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 978-989, 2024",
         "cited_by": {
             "value": 1,
@@ -77,8 +94,10 @@
     {
         "title": "Assessing the Reliability and Validity of the Measures for Automatic Text Summarization",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:JQOojiI6XY0C",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/35650.3685671",
         "citation_id": "Xp4tZ0cAAAAJ:JQOojiI6XY0C",
-        "authors": "RD Lins, H Oliveira, SJ Simske",
+        "authors_short": "RD Lins, H Oliveira, SJ Simske",
+        "authors": "Rafael Dueire Lins, <b>Hilário Oliveira</b>, Steven J. Simske",
         "publication": "Proceedings of the ACM Symposium on Document Engineering 2024, 1-4, 2024",
         "cited_by": {
             "value": 1,
@@ -91,8 +110,10 @@
     {
         "title": "Contextual Features for Automatic Essay Scoring in Portuguese",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:fEOibwPWpKIC",
+        "springer": "https://link.springer.com/chapter/10.1007/978-3-031-64315-6_23",
         "citation_id": "Xp4tZ0cAAAAJ:fEOibwPWpKIC",
-        "authors": "L Galhardi, MF Herculano, L Rodrigues, P Miranda, H Oliveira, T Cordeiro, ...",
+        "authors_short": "L Galhardi, MF Herculano, L Rodrigues, P Miranda, H Oliveira, T Cordeiro, ...",
+        "authors": "Lucas Galhardi, Maria Fernanda Herculano, Luiz Rodrigues, Péricles Miranda, <b>Hilário Oliveira</b>, Thiago Cordeiro, Ig Ibert Bittencourt, Seiji Isotani, Rafael Ferreira Mello",
         "publication": "International Conference on Artificial Intelligence in Education, 270-282, 2024",
         "cited_by": {
             "value": 1,
@@ -105,8 +126,10 @@
     {
         "title": "Prediction of Essay Cohesion in Portuguese Based on Item Response Theory in Machine Learning",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:_Re3VWB3Y0AC",
+        "springer": "https://link.springer.com/chapter/10.1007/978-3-031-64312-5_48",
         "citation_id": "Xp4tZ0cAAAAJ:_Re3VWB3Y0AC",
-        "authors": "BAB Rosa, H Oliveira, RF Mello",
+        "authors_short": "BAB Rosa, H Oliveira, RF Mello",
+        "authors": "Bruno Alexandre Barreiros Rosa, <b>Hilário Oliveira</b>, Rafael Ferreira Mello",
         "publication": "International Conference on Artificial Intelligence in Education, 388-394, 2024",
         "cited_by": {
             "value": 1,
@@ -119,8 +142,12 @@
     {
         "title": "Sumariza\u00e7\u00e3o Autom\u00e1tica de Artigos de Not\u0131cias em Portugu\u00eas: Da Extra\u00e7\u00e3o a Abstra\u00e7\u00e3o com Abordagens Cl\u00e1ssicas e Modelos Neurais",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:URolC5Kub84C",
+        "doi": "https://doi.org/10.5753/stil.2024.245395",
+        "github": "https://github.com/laicsiifes/benchmark_ptbr_summ",
         "citation_id": "Xp4tZ0cAAAAJ:URolC5Kub84C",
-        "authors": "MA Sarmento, HTA de Oliveira",
+        "authors_short": "MA Sarmento, HTA de Oliveira",
+        "authors": "Marcio Alves Sarmento, <b>Hilário Tomaz Alves de Oliveira</b>",
+        "publication": "Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL), 139-148, 2024",
         "cited_by": {
             "value": 1,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2713069572575753802",
@@ -132,9 +159,13 @@
     {
         "title": "Gera\u00e7ao Autom\u00e1tica de Perguntas em Portugu\u00eas do Brasil Usando os Modelos PTT5 e FLAN-T5",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:AvfA0Oy_GE0C",
+        "doi": "https://doi.org/10.5753/stil.2024.245392",
+        "github": "https://github.com/laicsiifes/question_generation_ptbr",
         "citation_id": "Xp4tZ0cAAAAJ:AvfA0Oy_GE0C",
-        "authors": "BC Coutinho, HTA de Oliveira",
-        "publication": "Simp\u00f3sio Brasileiro de Tecnologia da Informa\u00e7\u00e3o e da Linguagem Humana (STIL \u2026, 2024",
+        "authors_short": "BC Coutinho, HTA de Oliveira",
+        "authors": "Tiago Felipe V. Braga, Bruno Cardoso Coutinho, <b>Hilário Tomaz Alves de Oliveira</b>",
+        "publication_short": "Simp\u00f3sio Brasileiro de Tecnologia da Informa\u00e7\u00e3o e da Linguagem Humana (STIL \u2026, 2024",
+        "publication": "Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL), 149-158, 2024",
         "cited_by": {
             "value": null
         },
@@ -143,8 +174,12 @@
     {
         "title": "A Comparative Evaluation of Transformer-Based Vision Encoder-Decoder Models for Brazilian Portuguese Image Captioning",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:vDijr-p_gm4C",
+        "ieee": "https://ieeexplore.ieee.org/abstract/document/10716325",
+        "github": "https://github.com/laicsiifes/ved-transformer-caption-ptbr",
+        "huggingface": "https://huggingface.co/collections/laicsiifes/ved-for-brazilian-portuguese-ic-66d6280c9e7dbd3be32d2770",
         "citation_id": "Xp4tZ0cAAAAJ:vDijr-p_gm4C",
-        "authors": "G Bromonschenkel, H Oliveira, TM Paix\u00e3o",
+        "authors_short": "G Bromonschenkel, TM Paix\u00e3o, H Oliveira",
+        "authors": "Gabriel Bromonschenkel, Thiago M. Paixão, <b>Hilário Oliveira</b>",
         "publication": "2024 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 1-6, 2024",
         "cited_by": {
             "value": null
@@ -154,8 +189,10 @@
     {
         "title": "Exploring NLP and Embedding for Automatic Essay Scoring in the Portuguese",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:35r97b3x0nAC",
+        "springer": "https://link.springer.com/chapter/10.1007/978-3-031-64315-6_18",
         "citation_id": "Xp4tZ0cAAAAJ:35r97b3x0nAC",
-        "authors": "R Carvalho, LF Lins, L Rodrigues, P Miranda, H Oliveira, T Cordeiro, ...",
+        "authors_short": "R Carvalho, LF Lins, L Rodrigues, P Miranda, H Oliveira, T Cordeiro, ...",
+        "authors": "Ruan Carvalho, Lucas Fernandes Lins, Luiz Rodrigues, Péricles Miranda, <b>Hilário Oliveira</b>, Thiago Cordeiro, Ig Ibert Bittencourt, Seiji Isotani, Rafael Ferreira Mello",
         "publication": "International Conference on Artificial Intelligence in Education, 228-233, 2024",
         "cited_by": {
             "value": null
@@ -165,8 +202,11 @@
     {
         "title": "Combina\u00e7ao de Modelos de Aprendizado de M\u00e1quina utilizando Teoria de Resposta ao Item para Avalia\u00e7ao de Coesao Textual em Reda\u00e7oes no contexto do ENEM",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:uWiczbcajpAC",
+        "doi": "https://doi.org/10.5753/sbie.2024.242747",
         "citation_id": "Xp4tZ0cAAAAJ:uWiczbcajpAC",
-        "authors": "BA Rosa, H Oliveira, RF Mello, EA Oliveira",
+        "authors_short": "BA Rosa, H Oliveira, RF Mello, EA Oliveira",
+        "authors": "Bruno Alexandre Rosa, <b>Hilário Oliveira</b>, Rafael Ferreira Mello, Eduardo Araujo Oliveira",
+        "publication": "Simpósio Brasileiro de Informática na Educação (SBIE), 1999-2012, 2024",
         "cited_by": {
             "value": null
         },
@@ -175,8 +215,10 @@
     {
         "title": "Towards explainable prediction of essay cohesion in Portuguese and English",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:dQ2og3OwTAUC",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/3576050.3576152",
         "citation_id": "Xp4tZ0cAAAAJ:dQ2og3OwTAUC",
-        "authors": "H Oliveira, R Ferreira Mello, BA Barreiros Rosa, M Rakovic, P Miranda, ...",
+        "authors_short": "H Oliveira, R Ferreira Mello, BA Barreiros Rosa, M Rakovic, P Miranda, ...",
+        "authors": "<b>Hilário Oliveira</b>, Rafael Ferreira Mello, Bruno Alexandre Barreiros Rosa, Mladen Rakovic, Pericles Miranda, Thiago Cordeiro, Seiji Isotani, Ig Bittencourt, Dragan Gasevic",
         "publication": "LAK23: 13th international learning analytics and knowledge conference, 509-519, 2023",
         "cited_by": {
             "value": 19,
@@ -189,8 +231,11 @@
     {
         "title": "Classifica\u00e7ao ou regressao? avaliando coesao textual em reda\u00e7oes no contexto do enem",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:uLbwQdceFCQC",
+        "doi": "https://doi.org/10.5753/sbie.2023.234516",
+        "github": "https://github.com/hilariooliveira/coesao_textual_enem_sbie",
         "citation_id": "Xp4tZ0cAAAAJ:uLbwQdceFCQC",
-        "authors": "H Oliveira, RF Mello, P Miranda, B Alexandre, T Cordeiro, II Bittencourt, ...",
+        "authors_short": "H Oliveira, RF Mello, P Miranda, B Alexandre, T Cordeiro, II Bittencourt, ...",
+        "authors": "<b>Hilário Oliveira</b>, Rafael Ferreira Mello, Péricles Miranda, Bruno Alexandre, Thiago Cordeiro, Ig Ibert Bittencourt, Seiji Isotani",
         "publication": "Simp\u00f3sio Brasileiro de Inform\u00e1tica na Educa\u00e7\u00e3o (SBIE), 1226-1237, 2023",
         "cited_by": {
             "value": 3,
@@ -203,8 +248,11 @@
     {
         "title": "An\u00e1lise Comparativa entre Abordagens de Aprendizado de M\u00e1quina para Classifica\u00e7\u00e3o Autom\u00e1tica de Curr\u00edculos de Profissionais de TIC",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:HE397vMXCloC",
+        "doi": "https://doi.org/10.5753/eniac.2023.234140",
+        "github": "https://github.com/renatostosp/mpca_triagem_curriculo",
         "citation_id": "Xp4tZ0cAAAAJ:HE397vMXCloC",
-        "authors": "RS Pereira, HTA de Oliveira",
+        "authors_short": "RS Pereira, HTA de Oliveira",
+        "authors": "Renato Santos Pereira, <b>Hilário Tomaz Alves de Oliveira</b>",
         "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 359-373, 2023",
         "cited_by": {
             "value": null
@@ -214,8 +262,10 @@
     {
         "title": "Towards automated content analysis of rhetorical structure of written essays using sequential content-independent features in Portuguese",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:kzcrU_BdoSEC",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/3506860.3506977",
         "citation_id": "Xp4tZ0cAAAAJ:kzcrU_BdoSEC",
-        "authors": "R Ferreira Mello, G Fiorentino, H Oliveira, P Miranda, M Rakovic, ...",
+        "authors_short": "R Ferreira Mello, G Fiorentino, H Oliveira, P Miranda, M Rakovic, ...",
+        "authors": "Rafael Ferreira Mello, Giuseppe Fiorentino, <b>Hilário Oliveira</b>, Péricles Miranda, Mladen Rakovic, Dragan Gasevic",
         "publication": "LAK22: 12th International Learning Analytics and Knowledge Conference, 404-414, 2022",
         "cited_by": {
             "value": 17,
@@ -228,8 +278,10 @@
     {
         "title": "Estimando coesao textual em reda\u00e7oes no contexto do enem utilizando modelos de aprendizado de m\u00e1quina",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:j8SEvjWlNXcC",
+        "doi": "https://doi.org/10.5753/sbie.2022.224736",
         "citation_id": "Xp4tZ0cAAAAJ:j8SEvjWlNXcC",
-        "authors": "H Oliveira, P Miranda, S Isotani, J Santos, T Cordeiro, II Bittencourt, ...",
+        "authors_short": "H Oliveira, P Miranda, S Isotani, J Santos, T Cordeiro, II Bittencourt, ...",
+        "authors": "<b>Hilário Oliveira</b>, Péricles Miranda, Seiji Isotani, Jário Santos, Thiago Cordeiro, Ig Ibert Bittencourt, Rafael Ferreira Mello",
         "publication": "Simp\u00f3sio Brasileiro de Inform\u00e1tica na Educa\u00e7\u00e3o (SBIE), 883-894, 2022",
         "cited_by": {
             "value": 6,
@@ -242,8 +294,11 @@
     {
         "title": "Avalia\u00e7\u00e3o de Modelos Neurais para Sumariza\u00e7\u00e3o de C\u00f3digo-fonte",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:_B80troHkn4C",
+        "doi": "https://doi.org/10.5753/semish.2022.223154",
+        "github": "https://github.com/laicsiifes/code_summarization",
         "citation_id": "Xp4tZ0cAAAAJ:_B80troHkn4C",
-        "authors": "LBL Pontes, HTA de Oliveira, F de Assis Boldt",
+        "authors_short": "LBL Pontes, HTA de Oliveira, F de Assis Boldt",
+        "authors": "Leandro Baêta Lustosa Pontes, <b>Hilário Tomaz Alves de Oliveira</b>, Francisco de Assis Boldt",
         "publication": "Semin\u00e1rio Integrado de Software e Hardware (SEMISH), 140-151, 2022",
         "cited_by": {
             "value": 1,
@@ -256,9 +311,13 @@
     {
         "title": "Combining Word Embeddings for Portuguese Named Entity Recognition",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:Y5dfb0dijaUC",
+        "springer": "https://link.springer.com/chapter/10.1007/978-3-030-98305-5_19",
+        "github": "https://github.com/messias077/ner_pt",
         "citation_id": "Xp4tZ0cAAAAJ:Y5dfb0dijaUC",
-        "authors": "MG da Silva, HTA de Oliveira",
-        "publication": "International Conference on Computational Processing of the Portuguese \u2026, 2022",
+        "authors_short": "MG da Silva, HTA de Oliveira",
+        "authors": "Messias Gomes da Silva, <b>Hilário Tomaz Alves de Oliveira</b>",
+        "publication_short": "International Conference on Computational Processing of the Portuguese \u2026, 2022",
+        "publication": "International Conference on Computational Processing of the Portuguese Language, 198-208, 2022",
         "cited_by": {
             "value": 1,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6748886376144339424",
@@ -270,8 +329,10 @@
     {
         "title": "Chatbots Generativos como Ferramentas de Apoio ao Ensino em Cursos na \u00c1rea de Ferrovias",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:eMMeJKvmdy0C",
+        "doi": "https://doi.org/10.5753/eniac.2022.227611",
         "citation_id": "Xp4tZ0cAAAAJ:eMMeJKvmdy0C",
-        "authors": "E dos Santos Lopes, HTA de Oliveira, KA de Souza Gazolli",
+        "authors_short": "E dos Santos Lopes, HTA de Oliveira, KA de Souza Gazolli",
+        "authors": "Eduardo dos Santos Lopes, <b>Hilário Tomaz Alves de Oliveira</b>, Kelly Assis de Souza Gazolli",
         "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 352-363, 2022",
         "cited_by": {
             "value": null
@@ -282,7 +343,8 @@
         "title": "Aplica\u00e7\u00e3o de T\u00e9cnicas de Processamento De Linguagem Natural e Algoritmos de Aprendizado de M\u00e1quina para An\u00e1lise de Sentimentos",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:VLnqNzywnoUC",
         "citation_id": "Xp4tZ0cAAAAJ:VLnqNzywnoUC",
-        "authors": "IAP SILVA, TCD GUERRA, HTA Oliveira",
+        "authors_short": "IAP SILVA, TCD GUERRA, HTA Oliveira",
+        "authors": "IAP SILVA, TCD GUERRA, <b>HTA Oliveira</b>",
         "publication": "TCCendo Saberes Edi\u00e7\u00e3o 2019-2020, p. 261-275, 2022",
         "cited_by": {
             "value": null
@@ -292,8 +354,10 @@
     {
         "title": "Towards automatic content analysis of rhetorical structure in Brazilian college entrance essays",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:ZuybSZzF8UAC",
+        "springer": "https://link.springer.com/chapter/10.1007/978-3-030-78270-2_29",
         "citation_id": "Xp4tZ0cAAAAJ:ZuybSZzF8UAC",
-        "authors": "RF Mello, G Fiorentino, P Miranda, H Oliveira, M Rakovi\u0107, D Ga\u0161evi\u0107",
+        "authors_short": "RF Mello, G Fiorentino, P Miranda, H Oliveira, M Rakovi\u0107, D Ga\u0161evi\u0107",
+        "authors": "Rafael Ferreira Mello, Giuseppe Fiorentino, Péricles Miranda, <b>Hilário Oliveira</b>, Mladen Raković, Dragan Gašević",
         "publication": "International conference on artificial intelligence in education, 162-167, 2021",
         "cited_by": {
             "value": 11,
@@ -306,8 +370,10 @@
     {
         "title": "IDENTIFICA\u00c7\u00c3O AUTOM\u00c1TICA DE PERFIS DE MOTORISTAS USANDO APRENDIZADO DE M\u00c1QUINA",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:t7zJ5fGR-2UC",
+        "doi": "https://doi.org/10.22533/at.ed.1702018085",
         "citation_id": "Xp4tZ0cAAAAJ:t7zJ5fGR-2UC",
-        "authors": "RRC Silva J\u00fanior, HTA Oliveira",
+        "authors_short": "RRC Silva J\u00fanior, HTA Oliveira",
+        "authors": "Ricardo Roberto Carlos da Silva Júnior, <b>Hilário Tomaz Alves de Oliveira</b>",
         "publication": "Sistemas de Informa\u00e7\u00e3o e Aplica\u00e7\u00f5es Computacionais, 48-59., 2020",
         "cited_by": {
             "value": null
@@ -317,8 +383,10 @@
     {
         "title": "SUMARIZA\u00c7\u00c3O AUTOM\u00c1TICA DE ARTIGOS DE NOT\u00cdCIAS EM PORTUGU\u00caS USANDO PROGRAMA\u00c7\u00c3O LINEAR INTEIRA E REGRESS\u00c3O",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:z_wVstp3MssC",
+        "doi": "https://doi.org/10.22533/at.ed.61320040912",
         "citation_id": "Xp4tZ0cAAAAJ:z_wVstp3MssC",
-        "authors": "HTA Oliveira, LBB Gomes",
+        "authors_short": "HTA Oliveira, LBB Gomes",
+        "authors": "<b>Hilário Tomaz Alves de Oliveira</b>, Laerth Bruno de Brito Gomes",
         "publication": "Tecnologias, M\u00e9todos e Teorias na Engenharia de Computa\u00e7\u00e3o, 131-143, 2020",
         "cited_by": {
             "value": null
@@ -328,8 +396,10 @@
     {
         "title": "The CNN-corpus: A large textual corpus for single-document extractive summarization",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:tKAzc9rXhukC",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/3342558.3345388",
         "citation_id": "Xp4tZ0cAAAAJ:tKAzc9rXhukC",
-        "authors": "RD Lins, H Oliveira, L Cabral, J Batista, B Tenorio, R Ferreira, R Lima, ...",
+        "authors_short": "RD Lins, H Oliveira, L Cabral, J Batista, B Tenorio, R Ferreira, R Lima, ...",
+        "authors": "Rafael Dueire Lins, <b>Hilario Oliveira</b>, Luciano Cabral, Jamilson Batista, Bruno Tenorio, Rafael Ferreira, Rinaldo Lima, Gabriel de França Pereira e Silva, Steven J Simske",
         "publication": "Proceedings of the ACM Symposium on Document Engineering 2019, 1-10, 2019",
         "cited_by": {
             "value": 33,
@@ -342,8 +412,10 @@
     {
         "title": "The CNN-corpus in spanish: a large corpus for extractive text summarization in the spanish language",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:7T2F9Uy0os0C",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/3342558.3345423",
         "citation_id": "Xp4tZ0cAAAAJ:7T2F9Uy0os0C",
-        "authors": "RD Lins, H Oliveira, L Cabral, J Batista, B Tenorio, DA Salcedo, R Ferreira, ...",
+        "authors_short": "RD Lins, H Oliveira, L Cabral, J Batista, B Tenorio, DA Salcedo, R Ferreira, ...",
+        "authors": "Rafael Dueire Lins, <b>Hilario Oliveira</b>, Luciano Cabral, Jamilson Batista, Bruno Tenorio, Diego A Salcedo, Rafael Ferreira, Rinaldo Lima, Gabriel de França Pereira e Silva, Steven J Simske",
         "publication": "Proceedings of the ACM Symposium on Document Engineering 2019, 1-4, 2019",
         "cited_by": {
             "value": 3,
@@ -356,8 +428,11 @@
     {
         "title": "A multi-document summarization system for news articles in Portuguese using integer linear programming",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:9vf0nzSNQJEC",
+        "doi": "https://doi.org/10.5753/eniac.2019.9320",
+        "github": "https://github.com/hilariooliveira/SistemaPLI_PT-BR",
         "citation_id": "Xp4tZ0cAAAAJ:9vf0nzSNQJEC",
-        "authors": "L Gomes, H de Oliveira",
+        "authors_short": "L Gomes, H de Oliveira",
+        "authors": "Laerth Gomes, <b>Hilário de Oliveira</b>",
         "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 622-633, 2019",
         "cited_by": {
             "value": 2,
@@ -370,8 +445,10 @@
     {
         "title": "Automatic cohesive summarization with pronominal anaphora resolution",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:WqliGbK-hY8C",
+        "elsevier": "https://www.sciencedirect.com/science/article/abs/pii/S0885230816302340",
         "citation_id": "Xp4tZ0cAAAAJ:WqliGbK-hY8C",
-        "authors": "J Antunes, RD Lins, R Lima, H Oliveira, M Riss, SJ Simske",
+        "authors_short": "J Antunes, RD Lins, R Lima, H Oliveira, M Riss, SJ Simske",
+        "authors": "Jamilson Antunes, Rafael Dueire Lins, Rinaldo Lima, <b>Hilario Oliveira</b>, Marcelo Riss, Steven J Simske",
         "publication": "Computer Speech & Language 52, 141-164, 2018",
         "cited_by": {
             "value": 34,
@@ -384,8 +461,10 @@
     {
         "title": "A concept-based ILP approach for multi-document summarization exploring centrality and position",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:LjlpjdlvIbIC",
+        "ieee": "https://ieeexplore.ieee.org/abstract/document/8575586",
         "citation_id": "Xp4tZ0cAAAAJ:LjlpjdlvIbIC",
-        "authors": "H Oliveira, RD Lins, R Lima, F Freitas, SJ Simske",
+        "authors_short": "H Oliveira, RD Lins, R Lima, F Freitas, SJ Simske",
+        "authors": "<b>Hilário Oliveira</b>, Rafael Dueire Lins, Rinaldo Lima, Fred Freitas, Steven J Simske",
         "publication": "2018 7th Brazilian conference on intelligent systems (BRACIS), 37-42, 2018",
         "cited_by": {
             "value": 9,
@@ -398,8 +477,10 @@
     {
         "title": "Towards coherent single-document summarization: an integer linear programming-based approach",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:hkOj_22Ku90C",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/3167132.3167211",
         "citation_id": "Xp4tZ0cAAAAJ:hkOj_22Ku90C",
-        "authors": "R Garcia, R Lima, B Espinasse, H Oliveira",
+        "authors_short": "R Garcia, R Lima, B Espinasse, H Oliveira",
+        "authors": "Rodrigo Garcia, Rinaldo Lima, Bernard Espinasse, <b>Hilário Oliveira</b>",
         "publication": "Proceedings of the 33rd annual ACM symposium on applied computing, 712-719, 2018",
         "cited_by": {
             "value": 8,
@@ -412,22 +493,27 @@
     {
         "title": "Evaluating regression algorithms for automatic text summarization in Brazilian Portuguese",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:XD-gHx7UXLsC",
+        "doi": "https://doi.org/10.5753/eniac.2019.9321",
         "citation_id": "Xp4tZ0cAAAAJ:XD-gHx7UXLsC",
-        "authors": "LC Sodr\u00e9, HTA Oliveira",
-        "publication": "Anais do XV Encontro Nacional de Intelig\u00eancia Artificial e Computacional \u2026, 2018",
+        "authors_short": "LC Sodr\u00e9, HTA Oliveira",
+        "authors": "Lucas Sodré, <b>Hilário de Oliveira</b>",
+        "publication_short": "Anais do XV Encontro Nacional de Intelig\u00eancia Artificial e Computacional \u2026, 2018",
+        "publication": "Encontro Nacional de Intelig\u00eancia Artificial e Computacional (ENIAC), 634-645, 2019",
         "cited_by": {
             "value": 5,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5294886533839650504,11736007201726499761",
             "serpapi_link": "https://serpapi.com/search.json?cites=5294886533839650504%2C11736007201726499761&engine=google_scholar&hl=en",
             "cites_id": "5294886533839650504,11736007201726499761"
         },
-        "year": "2018"
+        "year": "2019"
     },
     {
         "title": "Sumariza\u00e7\u00e3o autom\u00e1tica de textos baseada em conceitos via programa\u00e7\u00e3o linear inteira e regress\u00e3o",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:eq2jaN3J8jMC",
         "citation_id": "Xp4tZ0cAAAAJ:eq2jaN3J8jMC",
-        "authors": "HTA OLIVEIRA",
+        "authors_short": "HTA OLIVEIRA",
+        "authors": "<b>Hilário Tomaz Alves de Oliveira</b>",
+        "publication": "Thesis and Dissertations, Federal University of Pernambuco (UFPE), 2018",
         "cited_by": {
             "value": 1,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17018941571007576358",
@@ -439,9 +525,12 @@
     {
         "title": "A regression-based approach using integer linear programming for single-document summarization",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:ZfRJV9d4-WMC",
+        "ieee": "https://ieeexplore.ieee.org/abstract/document/8371954",
         "citation_id": "Xp4tZ0cAAAAJ:ZfRJV9d4-WMC",
-        "authors": "H Oliveira, RD Lins, R Lima, F Freitas, SJ Simske",
-        "publication": "2017 IEEE 29th International Conference on Tools with Artificial \u2026, 2017",
+        "authors_short": "H Oliveira, RD Lins, R Lima, F Freitas, SJ Simske",
+        "authors": "<b>Hilário Oliveira</b>, Rafael Dueire Lins, Rinaldo Lima, Fred Freitas, Steven J Simske",
+        "publication_short": "2017 IEEE 29th International Conference on Tools with Artificial \u2026, 2017",
+        "publication": "2017 IEEE 29th International Conference on Tools with Artificial Intelligence (ICTAI), 270-277, 2017",
         "cited_by": {
             "value": 16,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14025040785956455301",
@@ -453,8 +542,10 @@
     {
         "title": "Assessing shallow sentence scoring techniques and combinations for single and multi-document summarization",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:evX43VCCuoAC",
+        "elsevier": "https://www.sciencedirect.com/science/article/abs/pii/S0957417416304250",
         "citation_id": "Xp4tZ0cAAAAJ:evX43VCCuoAC",
-        "authors": "H Oliveira, R Ferreira, R Lima, RD Lins, F Freitas, M Riss, SJ Simske",
+        "authors_short": "H Oliveira, R Ferreira, R Lima, RD Lins, F Freitas, M Riss, SJ Simske",
+        "authors": "<b>Hilário Oliveira</b>, Rafael Ferreira, Rinaldo Lima, Rafael Dueire Lins, Fred Freitas, Marcelo Riss, Steven J Simske",
         "publication": "Expert Systems with Applications 65, 68-86, 2016",
         "cited_by": {
             "value": 83,
@@ -467,8 +558,10 @@
     {
         "title": "A concept-based integer linear programming approach for single-document summarization",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:tzM49s52ZIMC",
+        "ieee": "https://ieeexplore.ieee.org/abstract/document/7839620",
         "citation_id": "Xp4tZ0cAAAAJ:tzM49s52ZIMC",
-        "authors": "H Oliveira, R Lima, RD Lins, F Freitas, M Riss, SJ Simske",
+        "authors_short": "H Oliveira, R Lima, RD Lins, F Freitas, M Riss, SJ Simske",
+        "authors": "<b>Hilário Oliveira</b>, Rinaldo Lima, Rafael Dueire Lins, Fred Freitas, Marcelo Riss, Steven J Simske",
         "publication": "2016 5th Brazilian Conference on Intelligent Systems (BRACIS), 403-408, 2016",
         "cited_by": {
             "value": 14,
@@ -481,8 +574,10 @@
     {
         "title": "Assessing concept weighting in integer linear programming based single-document summarization",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:VL0QpB8kHFEC",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/2960811.2967160",
         "citation_id": "Xp4tZ0cAAAAJ:VL0QpB8kHFEC",
-        "authors": "H Oliveira, R Lima, RD Lins, F Freitas, M Riss, SJ Simske",
+        "authors_short": "H Oliveira, R Lima, RD Lins, F Freitas, M Riss, SJ Simske",
+        "authors": "<b>Hilário Oliveira</b>, Rinaldo Lima, Rafael Dueire Lins, Fred Freitas, Marcelo Riss, Steven J Simske",
         "publication": "Proceedings of the 2016 ACM Symposium on Document Engineering, 205-208, 2016",
         "cited_by": {
             "value": 10,
@@ -495,8 +590,10 @@
     {
         "title": "Appling link target identification and content extraction to improve web news summarization",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:NJ774b8OgUMC",
+        "acm": "http://dl.acm.org/doi/abs/10.1145/2960811.2967158",
         "citation_id": "Xp4tZ0cAAAAJ:NJ774b8OgUMC",
-        "authors": "R Ferreira, R Ferreira, RD Lins, H Oliveira, M Riss, SJ Simske",
+        "authors_short": "R Ferreira, R Ferreira, RD Lins, H Oliveira, M Riss, SJ Simske",
+        "authors": "Rodolfo Ferreira, Rafael Ferreira, Rafael Dueire Lins, <b>Hilário Oliveira</b>, Marcelo Riss, Steven J Simske",
         "publication": "Proceedings of the 2016 ACM Symposium on Document Engineering, 197-200, 2016",
         "cited_by": {
             "value": 5,
@@ -510,8 +607,10 @@
         "title": "A web-based method for ontology population",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:ye4kPcJQO24C",
         "citation_id": "Xp4tZ0cAAAAJ:ye4kPcJQO24C",
-        "authors": "H Oliveira, R Lima, J Gomes, F Freitas, RD Lins, SJ Simske, M Riss",
-        "publication": "Mobile Computing and Wireless Networks: Concepts, Methodologies, Tools, and \u2026, 2016",
+        "authors_short": "H Oliveira, R Lima, J Gomes, F Freitas, RD Lins, SJ Simske, M Riss",
+        "authors": "<b>Hilário Oliveira</b>, Rinaldo Lima, João Gomes, Fred Freitas, Rafael Dueire Lins, Steven J Simske, Marcelo Riss",
+        "publication_short": "Mobile Computing and Wireless Networks: Concepts, Methodologies, Tools, and \u2026, 2016",
+        "publication": "Mobile Computing and Wireless Networks: Concepts, Methodologies, Tools, and Applications, 565-586, 2016",
         "cited_by": {
             "value": 1,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2639331397689160258",
@@ -523,8 +622,10 @@
     {
         "title": "Automatic text document summarization based on machine learning",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:_Ybze24A_UAC",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/2682571.2797099",
         "citation_id": "Xp4tZ0cAAAAJ:_Ybze24A_UAC",
-        "authors": "G Silva, R Ferreira, RD Lins, L Cabral, H Oliveira, SJ Simske, M Riss",
+        "authors_short": "G Silva, R Ferreira, RD Lins, L Cabral, H Oliveira, SJ Simske, M Riss",
+        "authors": "Gabriel Silva, Rafael Ferreira, Rafael Dueire Lins, Luciano Cabral, <b>Hilário Oliveira</b>, Steven J Simske, Marcelo Riss",
         "publication": "Proceedings of the 2015 ACM Symposium on Document Engineering, 191-194, 2015",
         "cited_by": {
             "value": 33,
@@ -537,8 +638,10 @@
     {
         "title": "A quantitative and qualitative assessment of automatic text summarization systems",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:tkaPQYYpVKoC",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/2682571.2797081",
         "citation_id": "Xp4tZ0cAAAAJ:tkaPQYYpVKoC",
-        "authors": "J Batista, R Ferreira, H Tomaz, R Ferreira, R Dueire Lins, S Simske, ...",
+        "authors_short": "J Batista, R Ferreira, H Tomaz, R Ferreira, R Dueire Lins, S Simske, ...",
+        "authors": "Jamilson Batista, Rodolfo Ferreira, <b>Hilário Tomaz</b>, Rafael Ferreira, Rafael Dueire Lins, Steven Simske, Gabriel Silva, Marcelo Riss",
         "publication": "Proceedings of the 2015 ACM Symposium on Document Engineering, 65-68, 2015",
         "cited_by": {
             "value": 22,
@@ -551,8 +654,12 @@
     {
         "title": "An unsupervised method for ontology population from textual sources on the web",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:WA5NYHcadZ8C",
+        "acm": "https://dl.acm.org/doi/abs/10.5555/2814058.2814121",
+        "doi": "https://doi.org/10.5753/sbsi.2015.5841",
         "citation_id": "Xp4tZ0cAAAAJ:WA5NYHcadZ8C",
-        "authors": "F Lima, HTA de Oliveira, LN Salvador",
+        "authors_short": "F Lima, HTA de Oliveira, LN Salvador",
+        "authors": "Fábio Lima, <b>Hilário Tomaz Alves de Oliveira</b>, Laís do Nascimento Salvador",
+        "publication": "Simp\u00f3sio Brasileiro de Sistemas de Informa\u00e7\u00e3o (SBSI), 387-394, 2015",
         "cited_by": {
             "value": 4,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5194626352151056486",
@@ -562,25 +669,13 @@
         "year": "2015"
     },
     {
-        "title": "Um M\u00e9todo N\u00e3o Supervisionado para o Povoamento de Ontologias a partir de Fontes Textuais na Web",
-        "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:UHK10RUVsp4C",
-        "citation_id": "Xp4tZ0cAAAAJ:UHK10RUVsp4C",
-        "authors": "F Lima, H Oliveira, L Salvador",
-        "publication": "Simp\u00f3sio Brasileiro de Sistemas de Informa\u00e7\u00e3o (SBSI), 387-394, 2015",
-        "cited_by": {
-            "value": 1,
-            "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7373047953821295807",
-            "serpapi_link": "https://serpapi.com/search.json?cites=7373047953821295807&engine=google_scholar&hl=en",
-            "cites_id": "7373047953821295807"
-        },
-        "year": "2015"
-    },
-    {
         "title": "Ontology population from the web: an inductive logic programming-based approach",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:W5xh706n7nkC",
+        "ieee": "https://ieeexplore.ieee.org/abstract/document/6822242",
         "citation_id": "Xp4tZ0cAAAAJ:W5xh706n7nkC",
-        "authors": "R Lima, B Espinasse, H Oliveira, F Freitas",
-        "publication": "2014 11th International Conference on Information Technology: New \u2026, 2014",
+        "authors_short": "R Lima, B Espinasse, H Oliveira, F Freitas",
+        "authors": "Rinaldo Lima, Bernard Espinasse, <b>Hilario Oliveira</b>, Fred Freitas",
+        "publication": "2014 11th International Conference on Information Technology: New Generations, 473-478, 2014",
         "cited_by": {
             "value": 12,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9314649818393798599",
@@ -592,9 +687,12 @@
     {
         "title": "Ontologies supporting the distributed software development: a systematic mapping study",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:PELIpwtuRlgC",
+        "acm": "https://dl.acm.org/doi/abs/10.1145/2460999.2461022",
         "citation_id": "Xp4tZ0cAAAAJ:PELIpwtuRlgC",
-        "authors": "A Borges, S Soares, S Meira, H Tomaz, R Rocha, C Costa",
-        "publication": "Proceedings of the 17th International Conference on Evaluation and \u2026, 2013",
+        "authors_short": "A Borges, S Soares, S Meira, H Tomaz, R Rocha, C Costa",
+        "authors": "Alex Borges, Sérgio Soares, Silvio Meira, <b>Hilário Tomaz</b>, Rodrigo Rocha, Catarina Costa",
+        "publication_short": "Proceedings of the 17th International Conference on Evaluation and \u2026, 2013",
+        "publication": "Proceedings of the 17th International Conference on Evaluation and Assessment in Software Engineering, 153-164, 2013",
         "cited_by": {
             "value": 17,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8969970650648105036",
@@ -606,9 +704,12 @@
     {
         "title": "Information extraction from the web: an ontology-based method using inductive logic programming",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:PR6Y55bgFSsC",
+        "ieee": "https://ieeexplore.ieee.org/abstract/document/6735325",
         "citation_id": "Xp4tZ0cAAAAJ:PR6Y55bgFSsC",
-        "authors": "R Lima, B Espinasse, H Oliveira, L Pentagrossa, F Freitas",
-        "publication": "2013 IEEE 25th International Conference on Tools with Artificial \u2026, 2013",
+        "authors_short": "R Lima, B Espinasse, H Oliveira, L Pentagrossa, F Freitas",
+        "authors": "Rinaldo Lima, Bernard Espinasse, <b>Hilário Oliveira</b>, Laura Pentagrossa, Fred Freitas",
+        "publication_short": "2013 IEEE 25th International Conference on Tools with Artificial \u2026, 2013",
+        "publication": "2013 IEEE 25th International Conference on Tools with Artificial Intelligence, 741-748, 2013",
         "cited_by": {
             "value": 14,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6432496736870273184",
@@ -620,9 +721,12 @@
     {
         "title": "An inductive logic programming-based approach for ontology population from the web",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:-_dYPAW6P2MC",
+        "springer": "https://link.springer.com/chapter/10.1007/978-3-642-40285-2_28",
         "citation_id": "Xp4tZ0cAAAAJ:-_dYPAW6P2MC",
-        "authors": "R Lima, B Espinasse, H Oliveira, R Ferreira, L Cabral, D Filho, F Freitas, ...",
-        "publication": "Database and Expert Systems Applications: 24th International Conference \u2026, 2013",
+        "authors_short": "R Lima, B Espinasse, H Oliveira, R Ferreira, L Cabral, D Filho, F Freitas, ...",
+        "authors": "Rinaldo Lima, Bernard Espinasse, <b>Hilário Oliveira</b>, Rafael Ferreira, Luciano Cabral, Dimas Filho, Fred Freitas, Renê Gadelha",
+        "publication_short": "Database and Expert Systems Applications: 24th International Conference \u2026, 2013",
+        "publication": "International Conference on Database and Expert Systems Applications, 319-326, 2013",
         "cited_by": {
             "value": 11,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16881338873557237758",
@@ -635,8 +739,9 @@
         "title": "Group Profiling for Understanding Educational Social Networking.",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:N5tVd3kTz84C",
         "citation_id": "Xp4tZ0cAAAAJ:N5tVd3kTz84C",
-        "authors": "J Gomes, RBC Prud\u00eancio, L Meira, A Azevedo Filho, ACA Nascimento, ...",
-        "publication": "SEKE, 101-106, 2013",
+        "authors_short": "J Gomes, RBC Prud\u00eancio, L Meira, A Azevedo Filho, ACA Nascimento, ...",
+        "authors": "João Gomes, Ricardo B. C. Prudêncio, Luciano Meira, Alexandre Azevedo Filho, André C. A. Nascimento, <b>Hilário Oliveira</b>",
+        "publication": "International Conference on Software Engineering and Knowledge Engineering (SEKE) , 101-106, 2013",
         "cited_by": {
             "value": 7,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3913697637544549780",
@@ -649,7 +754,9 @@
         "title": "Um m\u00e9todo n\u00e3o supervisionado para o povoamento de ontologias na web",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:dTyEYWd-f8wC",
         "citation_id": "Xp4tZ0cAAAAJ:dTyEYWd-f8wC",
-        "authors": "HTA Oliveira",
+        "authors_short": "HTA Oliveira",
+        "authors": "<b>Hilário Tomaz Alves de Oliveira</b>",
+        "publication": "Thesis and Dissertations, Federal University of Pernambuco (UFPE), 2013",
         "cited_by": {
             "value": 3,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9706797714697636756",
@@ -661,9 +768,12 @@
     {
         "title": "A confidence\u2013weighted metric for unsupervised ontology population from web texts",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:Fu2w8maKXqMC",
+        "springer": "https://link.springer.com/chapter/10.1007/978-3-642-32600-4_14",
         "citation_id": "Xp4tZ0cAAAAJ:Fu2w8maKXqMC",
-        "authors": "H Oliveira, R Lima, J Gomes, R Ferreira, F Freitas, E Costa",
-        "publication": "Database and Expert Systems Applications: 23rd International Conference \u2026, 2012",
+        "authors_short": "H Oliveira, R Lima, J Gomes, R Ferreira, F Freitas, E Costa",
+        "authors": "<b>Hilário Oliveira</b>, Rinaldo Lima, João Gomes, Rafael Ferreira, Fred Freitas, Evandro Costa",
+        "publication_short": "Database and Expert Systems Applications: 23rd International Conference \u2026, 2012",
+        "publication": "International Conference on Database and Expert Systems Applications, 176-190, 2012",
         "cited_by": {
             "value": 7,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9940898826092507254",
@@ -675,9 +785,12 @@
     {
         "title": "An unsupervised method for ontology population from the web",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:SdhP9T11ey4C",
+        "springer": "https://link.springer.com/chapter/10.1007/978-3-642-34654-5_5",
         "citation_id": "Xp4tZ0cAAAAJ:SdhP9T11ey4C",
         "authors": "H Tomaz, R Lima, J Emanoel, F Freitas",
-        "publication": "Advances in Artificial Intelligence\u2013IBERAMIA 2012: 13th Ibero-American \u2026, 2012",
+        "authors": "<b>Hilário Tomaz</b>, Rinaldo Lima, João Emanoel, Fred Freitas",
+        "publication_short": "Advances in Artificial Intelligence\u2013IBERAMIA 2012: 13th Ibero-American \u2026, 2012",
+        "publication": "Advances in Artificial Intelligence\u2013IBERAMIA 2012: Ibero-American Conference on Artificial Intelligence, 41-50, 2012",
         "cited_by": {
             "value": 7,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16548469774558974900",
@@ -689,8 +802,11 @@
     {
         "title": "A PROPOSAL AND EVALUATION OF A RECOMMENDATION MODEL FOR PEOPLE SELECTION PROCESS",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:JoZmwDi-zQgC",
+        "researchgate": "https://www.researchgate.net/publication/365612902_A_PROPOSAL_AND_EVALUATION_OF_A_RECOMMENDATION_MODEL_FOR_PEOPLE_SELECTION_PROCESS",
         "citation_id": "Xp4tZ0cAAAAJ:JoZmwDi-zQgC",
-        "authors": "RN de Sousa Gadelha, CC de Souza, HTA de Oliveira",
+        "authors_short": "RN de Sousa Gadelha, CC de Souza, HTA de Oliveira",
+        "authors": "Renê Nóbrega de Sousa Gadelha, Cleyton Caetano de Souza, <b>Hilário Tomaz Alves de Oliveira</b>",
+        "publication": "IADIS International Conference Applied Computing 2012, 51-58, 2012",
         "cited_by": {
             "value": null
         },
@@ -700,7 +816,8 @@
         "title": "Uma arquitetura para Testes Funcionais utilizando Molybdenum",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:9Nmd_mFXekcC",
         "citation_id": "Xp4tZ0cAAAAJ:9Nmd_mFXekcC",
-        "authors": "CC SOUZA, HTA OLIVEIRA",
+        "authors_short": "CC SOUZA, HTA OLIVEIRA",
+        "authors": "Cleyton Caetano de Souza, <b>Hilário Tomaz Alves de Oliveira</b>",
         "publication": "Encontro Brasileiro de Testes de Software (EBTS), 2011",
         "cited_by": {
             "value": null
@@ -710,9 +827,12 @@
     {
         "title": "Dr. pierre: Um chatterbot com inten\u00e7\u00e3o e personalidade baseado em ontologias para apoiar o ensino de psiquiatria",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:nrtMV_XWKgEC",
+        "researchgate": "https://www.researchgate.net/publication/277153928_Dr_Pierre_Um_Chatterbot_com_Intencao_e_Personalidade_Baseado_em_Ontologias_para_Apoiar_o_Ensino_de_Psiquiatria",
         "citation_id": "Xp4tZ0cAAAAJ:nrtMV_XWKgEC",
-        "authors": "HTA De Oliveira, RNS Gadelha, RR de Azevedo, JBD J\u00fanior, GA Dias, ...",
-        "publication": "Brazilian Symposium on Computers in Education (Simp\u00f3sio Brasileiro de \u2026, 2010",
+        "authors_short": "HTA De Oliveira, RNS Gadelha, RR de Azevedo, JBD J\u00fanior, GA Dias, ...",
+        "authors": "<b>Hilário T. A. De Oliveira</b>, Renê N. S. Gadelha, Ryan Ribeiro de Azevedo, João Bosco Delfino Júnior, Guilherme Ataíde Dias, Fred Freitas",
+        "publication_short": "Brazilian Symposium on Computers in Education (Simp\u00f3sio Brasileiro de \u2026, 2010",
+        "publication": "Simpósio Brasileiro de Informática na Educação (SBIE), 2010",
         "cited_by": {
             "value": 13,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7163955246175408299,6563696272109656206",
@@ -724,9 +844,12 @@
     {
         "title": "Os simulator: Um simulador de sistema de arquivos para apoiar o ensino/aprendizagem de sistemas operacionais",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:yB1At4FlUx8C",
+        "academia": "https://www.academia.edu/50460538/OS_Simulator_Um_Simulador_de_Sistema_de_Arquivos_para_Apoiar_o_Ensino_Aprendizagem_de_Sistemas_Operacionais",
         "citation_id": "Xp4tZ0cAAAAJ:yB1At4FlUx8C",
-        "authors": "RNS Gadelha, RR de Azevedo, HTA de Oliveira, TD Neves, CC Souza, ...",
-        "publication": "Brazilian Symposium on Computers in Education (Simp\u00f3sio Brasileiro de \u2026, 2010",
+        "authors_short": "RNS Gadelha, RR de Azevedo, HTA de Oliveira, TD Neves, CC Souza, ...",
+        "authors": "Renê N. S. Gadelha, Ryan Ribeiro de Azevedo, <b>Hilário T. A. de Oliveira</b>, Tiago D. Neves, Cleyton C Souza, Edilson Leite da Silva",
+        "publication_short": "Brazilian Symposium on Computers in Education (Simp\u00f3sio Brasileiro de \u2026, 2010",
+        "publication": "Simpósio Brasileiro de Informática na Educação (SBIE), 2010",
         "cited_by": {
             "value": 10,
             "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=542995114433885262",
@@ -739,7 +862,8 @@
         "title": "Uma Proposta de Arquitetura Baseada em Ontologias para Chatterbots com Inten\u00e7\u00e3o e Personalidade",
         "google-scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Xp4tZ0cAAAAJ&pagesize=57&citation_for_view=Xp4tZ0cAAAAJ:AXPGKjj_ei8C",
         "citation_id": "Xp4tZ0cAAAAJ:AXPGKjj_ei8C",
-        "authors": "RNS Gadelha, H Tomaz, RR de Azevedo, JBD J\u00fanior, GA Dias",
+        "authors_short": "RNS Gadelha, H Tomaz, RR de Azevedo, JBD J\u00fanior, GA Dias",
+        "authors": "Renê N. S. Gadelha, <b>Hilário Tomaz</b>, Ryan Ribeiro de Azevedo, João Bosco Delfino Júnior, Guilherme Ataíde Dias",
         "publication": "Simp\u00f3sio Brasileiro de Sistemas Multim\u00eddia e Web (WebMedia), 87-89, 2010",
         "cited_by": {
             "value": null

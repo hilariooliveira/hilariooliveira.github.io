@@ -1,0 +1,107 @@
+[
+  {
+    "start_date": "2024",
+    "end_date": "Present",
+    "title": "Digital Transformation of PNLD Pedagogical Assessment: From Research to Innovation",
+    "role": "Senior AI Researcher",
+    "description": "Develop computational solutions and foster collaboration between academia and government agencies to generate value and social impact in the pedagogical evaluation process of the National Textbook and Didactic Material Program (PNLD)."
+  },
+  {
+    "start_date": "2024",
+    "end_date": "Present",
+    "title": "Text-To-SQL Solutions for IAGROGPT: An Intelligent Virtual Assistant for Brazilian Agriculture",
+    "role": "Senior AI Researcher",
+    "description": "Develop a pioneering Conversational AI solution (IAGROGPT) for Brazilian agriculture to provide humanized, agile, and assertive information by converting natural language queries into SQL database queries."
+  },
+  {
+    "start_date": "2024",
+    "end_date": "Present",
+    "title": "Optimizing the process of updating the knowledge base of conversational agents",
+    "role": "Research Coordinator",
+    "description": "Automate the knowledge base update process for the ifes.talk chatbot using Natural Language Processing (NLP), Machine Learning (ML), and image recognition to extract relevant information from PDF documents, aiming to improve chatbot efficiency and provide accurate responses."
+  },
+  {
+    "start_date": "2023",
+    "end_date": "Present",
+    "title": "Expert Panel on Psychoactive Substances of Espírito Santo - Paspes",
+    "role": "Senior AI Researcher",
+    "description": "Create a unified database for forensic data in Espírito Santo to systematically understand deaths related to psychoactive substance use from 2013-2022, correlate with drug seizures, and produce a diagnostic report for public policy."
+  },
+  {
+    "start_date": "2023",
+    "end_date": "2024",
+    "title": "Obtaining Business Process Models from Textual Documents using Deep Learning and Recommendation",
+    "role": "Research Coordinator",
+    "description": "Investigate mechanisms to interpret and transcribe textual information into process models using Deep Learning and Natural Language Processing to identify named entities and their relationships, converting them into a declarative process notation for cognitive support in modeling tools like BPMN."
+  },
+  {
+    "start_date": "2021",
+    "end_date": "2022",
+    "title": "Natural language processing applied to automated bibliometrics",
+    "role": "Research Coordinator",
+    "description": "Continue studies on automated bibliometry, analyzing different methods for a system that assists researchers with bibliographic surveys, specifically for screening scientific article titles and abstracts, to improve efficiency and reduce errors."
+  },
+  {
+    "start_date": "2020",
+    "end_date": "2021",
+    "title": "Automated bibliometrics: A case study on the use of ornamental rock processing sludge",
+    "role": "Senior AI Researcher",
+    "description": "Apply state-of-the-art AI, including Natural Language Processing and deep neural networks, to existing knowledge bases to extract technological information to support technical standards for licensing industrial processes related to ornamental rock beneficiation sludge."
+  },
+  {
+    "start_date": "2014",
+    "end_date": "2016",
+    "title": "HP FLIP - Functional Language & Information Plataform",
+    "role": "AI Researcher",
+    "description": "Improve abstractive summarization for HP's Aerthon and Big Data Analytics systems, propose a platform for multi-language text mining techniques (HP Customer Support Service), and analyze/summarize product support records and reviews to enhance customer support."
+  },
+  {
+    "start_date": "2013",
+    "end_date": "2014",
+    "title": "Kurier News: A Social Media Monitoring System",
+    "role": "AI Researcher",
+    "description": "Develop a social media, website, and blog monitoring platform (Kurier News) to provide intelligent information to clients and strategic tools for companies."
+  },
+  {
+    "start_date": "2010",
+    "end_date": "2012",
+    "title": "A Portable Textual Database Manipulation Solution for Different Information Domains",
+    "role": "AI Researcher",
+    "description": "Enhance the Kurier software to be domain-portable beyond the legal field (e.g., medicine, tenders), using Semantic Web techniques and ontologies for flexibility and reuse, and exploring machine learning and natural language processing for classification and information extraction."
+  },
+  {
+    "start_date": "2009",
+    "end_date": "2010",
+    "title": "GEDARIO – Group for the Study and Development of Applications for Online Information Retrieval",
+    "role": "AI Researcher",
+    "description": "Research and analyze concepts, technologies, and applications used in online information retrieval, and develop tools and applications to contribute to this process."
+  },
+  {
+    "start_date": "2024",
+    "end_date": "Present",
+    "title": "Development of a Chatbot for Information Retrieval in Documents with Textual and Visual Content",
+    "role": "Senior AI Researcher",
+    "description": "Develop an information retrieval module using Retrieval-Augmented Generation (RAG) for an AI Generative Chatbot to centralize and enhance citizen service, enabling the virtual assistant to access, understand, and integrate information from multiple sources including normative documents, digitized texts, and visual content."
+  },
+  {
+    "start_date": "2022",
+    "end_date": "2023",
+    "title": "Adaptive Platform for Assessment and Pedagogical Diagnosis of Texts",
+    "role": "Senior AI Researcher",
+    "description": "Develop a textual evaluation model, primarily for essay grading, to reduce costs and teacher workload, enabling them to focus on other educational needs and provide pedagogical assistance by identifying errors and deviations in student texts, including modules for plagiarism detection."
+  },
+  {
+    "start_date": "2021",
+    "end_date": "2023",
+    "title": "Timelinefy",
+    "role": "Research Coordinator",
+    "description": "Develop and apply information organization tools using timelines, Machine Learning, and Natural Language Processing techniques to create connections based on user interests, enabling analysis, trends, and event simulations, particularly in education, to help users visualize information in a temporal structure and maximize knowledge acquisition."
+  },
+  {
+    "start_date": "2008",
+    "end_date": "2009",
+    "title": "Calculus and Algebra - wxMAXIMA a free software",
+    "role": "AI Researcher",
+    "description": "Facilitate mathematics education at all levels through the use of computational tools, specifically the free software wxMAXIMA, a symbolic and algebraic manipulation program similar to MAPLE, to improve the teaching-learning relationship in mathematical topics."
+  }
+]
