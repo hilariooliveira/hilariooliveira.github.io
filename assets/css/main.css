@@ -1076,8 +1076,8 @@ section,
 .about .about-image .experience-badge {
   position: absolute;
   bottom: 30px;
-  right: -30px;
-  background: var(--accent-color);
+  right: -10px;
+  background: color-mix(in srgb, var(--accent-color), transparent 70%); /*var(--accent-color);*/
   color: var(--contrast-color);
   padding: 1.5rem;
   border-radius: 8px;
@@ -1182,7 +1182,7 @@ section,
 }
 
 .about .testimonial-section {
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  /*border-top: 1px solid rgba(0, 0, 0, 0.08);*/
 }
 
 .about .testimonial-section .testimonial-intro h3 {
@@ -1224,7 +1224,8 @@ section,
 }
 
 .about .testimonial-section .testimonial-slider {
-  overflow: hidden;
+  /*overflow: hidden;*/
+  overflow: visible;
 }
 
 .about .testimonial-section .testimonial-slider .swiper-wrapper {
@@ -1232,10 +1233,13 @@ section,
 }
 
 .about .testimonial-section .testimonial-item {
-  background-color: var(--surface-color);
-  border-radius: 10px;
+  /*background-color: var(--surface-color);*/
+  background-color: color-mix(in srgb, var(--surface-color), transparent 50%);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
   padding: 2rem;
-  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.05);
+  /*box-shadow: 0 5px 30px rgba(0, 0, 0, 0.05);*/
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
   height: 100%;
 }
 
@@ -1245,7 +1249,7 @@ section,
 }
 
 .about .testimonial-section .testimonial-item p {
-  font-style: italic;
+  /*font-style: italic;*/
   margin-bottom: 0;
   font-size: 1rem;
   line-height: 1.6;
