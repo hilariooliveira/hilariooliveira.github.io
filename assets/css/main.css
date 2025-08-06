@@ -43,8 +43,8 @@
   --nav-hover-color: #eb7f3e; /*#3c78d8;*/
   --nav-mobile-background-color: #ffffff;
   --nav-dropdown-background-color: #29343a;
-  --nav-dropdown-color: rgba(255, 255, 255, 0.8);
-  --nav-dropdown-hover-color: #e3a127;
+  --nav-dropdown-color: #000000; /*rgba(255, 255, 255, 0.8);*/
+  --nav-dropdown-hover-color: #eb7f3e;
 }
 
 /*:root {
@@ -429,6 +429,7 @@ h6 {
   .navmenu .active,
   .navmenu .active:focus {
     color: var(--nav-dropdown-hover-color);
+    font-weight: bold;
   }
 
   .navmenu .active i,
