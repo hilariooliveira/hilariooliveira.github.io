@@ -131,7 +131,11 @@
         <div class="col-lg-12 isotope-item filter-{{ paper.year }}">
           <div class="team-member d-flex">
             <div class="member-img">
-                {% set thumb = paper["google-scholar"].split(':')[-1] %}
+                {% if "google-scholar" in paper %}
+                  {% set thumb = "A" + paper["google-scholar"].split(':')[-1] %}
+                {% else %}
+                  {% set thumb = "" %}
+                {% endif %}
                 {% if thumb in thumbs %}<img src="data/paper_thumbs/{{ thumbs[thumb] }}" class="img-fluid" alt="" loading="lazy">{% else %}
                 <img src="assets/img/portfolio/standard.jpg" class="img-fluid" alt="" loading="lazy">{% endif %}
             </div>
